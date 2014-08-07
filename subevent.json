@@ -1,0 +1,66 @@
+[{
+      "chapter": 1,
+      "title": "Chapter 1 出会い",
+      "location": "Fennmont イル・ファン",
+      "subevents":
+      [
+            {
+                  "id": 1,
+                  "title": "The Cycle of Liese Maxia リーゼ・マクシアの循環",
+                  "missable": true,
+                  "location": "Fennmont イル・ファン",
+                  "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ラフォート研究所",
+                  "info": "In the Talim Medical School Student Affairs Reception area タリム医 学校　学生課窓口 approach the man sitting in the sitting area next to the entrance for a cutscene."
+            },
+            {
+                  "id": 2,
+                  "title": "Gossip about Jude ジュードの噂",
+                  "missable": true,
+                  "location": "Fennmont イル・ファン",
+                  "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ラフォート研究所",
+                  "info": "In the Talim Medical School Student Affairs Office passageway タリム医学校 学生課 通路 (where you started the game) approach two students talking for a cutscene."
+            },
+            {
+                  "id": 3,
+                  "title": "Spirit Artes Failure 精霊術失敗",
+                  "missable": true,
+                  "location": "Fennmont イル・ファン",
+                  "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ラフォート研究所",
+                  "info": "In the Academic Research District 学術研究地区 (just before Lafort Research Lab ラフォート研究所) approach the two men near one of the lampposts. One of men is sitting on the ground. "
+            }
+      ]
+},
+{
+      "chapter": 6,
+      "title": "Chapter 6 揺れる思い",
+      "location": "Aladhi Seahaven イラート海停",
+      "subevents":
+      [
+            {
+                  "id": 4,
+                  "title": "The Monster Lies 魔物退治の誤算",
+                  "missable": false,
+                  "location": "Aladhi Seahaven イラート海停",
+                  "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven イラート海停 for the second time. This should be after exterminating a monster in the Ilart Highway イラート間道 and sleeping at the inn.",
+                  "info": "In the Talim Medical School Student Affairs Reception area タリム医 学校　学生課窓口 approach the man sitting in the sitting area next to the entrance for a cutscene.",
+                  "reward": "1200 gald, belt dagger attachment ベルト付きダガー"
+            },
+            {
+                  "id": 5,
+                  "title": "Fruit Seller フルーツ商人 PART 1/2",
+                  "missable": false,
+                  "location": "Aladhi Seahaven イラート海停",
+                  "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven イラート海停 for the second time. This should be after exterminating a monster in the Ilart Highway イラート間道 and sleeping at the inn.",
+                  "info": "Talk to a man standing outside the inn. He'll ask you to find him a fruit called a 'porange' パレンジ"
+            },
+            {
+                  "id": 6,
+                  "title": "The Legendary Flavor 秘伝の味",
+                  "missable": false,
+                  "location": "Aladhi Seahaven イラート海停",
+                  "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven イラート海停 for the second time. This should be after exterminating a monster in the Ilart Highway イラート間道 and sleeping at the inn.",
+                  "info": "Talk to a man standing in the central area near the stairs. He'll ask you to buy him soda rice サイダー飯 from the food shop (in the inn). Size of the food doesn't matter. ",
+                  "reward": "1200 gald, thick eyebrows attachment ふと眉毛"
+            }
+      ]
+}]
