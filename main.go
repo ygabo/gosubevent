@@ -8,8 +8,8 @@ import (
 )
 
 var (
-	JSON_FILE       = "subevent.json"
-	eventsByChapter []Chapter
+	JSON_FILE   = "data/subevent.json"
+	blankEvents []Chapter
 )
 
 type Subevent struct {
@@ -35,19 +35,22 @@ func check(e error) {
 	}
 }
 
-func updateJsonCache() {
+func updateCache() {
 	dat, err := ioutil.ReadFile(JSON_FILE)
 	check(err)
 
-	err = json.Unmarshal(dat, &eventsByChapter)
+	err = json.Unmarshal(dat, &blankEvents)
 	check(err)
 }
 
 func main() {
-	updateJsonCache()
+	updateCache()
 	m := martini.Classic()
 	m.Get("/", func() string {
-		kk, _ := json.Marshal(eventsByChapter)
+		return "Hello world!"
+	})
+	m.Get("/events.json", func() string {
+		kk, _ := json.Marshal(blankEvents)
 		return string(kk)
 	})
 	m.Run()
