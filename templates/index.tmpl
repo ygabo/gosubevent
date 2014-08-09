@@ -19,14 +19,18 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-2 well">
-                <h3>Chapters</h3>
+                <a href="" ng-click="allChapters()">
+                    <h3>Chapters</h3>
+                </a>
                 <ul class="nav nav-pills nav-stacked">
                     <li ng-class="{active: c.title == selected.title}" ng-repeat="c in chapters">
                         <a href="" ng-click="get($index)">{{c.title}}</a>
                     </li>
                 </ul>
             </div>
-            <div class="col-sm-6" ng-show="selected">
+
+            <!-- Show when a chapter is selected -->
+            <div class="col-sm-6 well" ng-show="selected">
                 <h2>{{selected.title}}</h2>
                 <dl class="dl-horizontal">
                     <dt>Main Story Location:</dt>
@@ -50,6 +54,35 @@
                         </li>
                     </ul>
                 </dd>
+            </div>
+
+            <!-- All Subevents. Show when a NO chapter is selected -->
+            <div class="col-sm-6 well" ng-show="!selected">
+               <li ng-repeat="c in chapters">
+                    <h2>{{c.title}}</h2>
+                    <dl class="dl-horizontal">
+                        <dt>Main Story Location:</dt>
+                        <dd>{{c.location}}</dd>
+                        <dt>Period:</dt>
+                        <dd>{{c.period}}</dd>
+                    </dl>
+                    <dd>
+                        <ul class="nav nav-pills nav-stacked">
+                            <li ng-repeat="s in c.subevents">
+                                <dl class="dl-horizontal">
+                                    <dt>Title:</dt>
+                                    <dd>{{s.title}}</dd>
+                                    <dt>Location:</dt>
+                                    <dd>{{s.location}}</dd>
+                                    <dt>Missable:</dt>
+                                    <dd>{{s.missable}}</dd>
+                                    <dt>Information:</dt>
+                                    <dd>{{s.info}}</dd>
+                                </dl>
+                            </li>
+                        </ul>
+                    </dd>
+                </li>
             </div>
         </div>
     </div>
@@ -84,6 +117,13 @@
                 }
             );
         };
+
+        $scope.allChapters = function()
+        {
+            // just clear the selected so ng-show will be false
+            $scope.selected = undefined;
+            $scope.list();
+        }
 
         $scope.list();
 
