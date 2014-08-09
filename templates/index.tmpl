@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en" ng-app="myapp">
+<head>
+    <meta charset="UTF-8">
+    <title>Xillia Subevents</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.0/cyborg/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+</head>
+<!-- putting this at the top to remove the jarring load -->
+<script src="http://code.angularjs.org/1.2.10/angular.min.js"></script>
+<body ng-controller="MainCtl">
+    <div class="jumbotron">
+        <button class="btn btn-primary pull-right" ng-click="add()">
+            <i class="fa fa-plus"></i> Login
+        </button>
+        <h1>Tales of Xillia Subevents, Jude</h1>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-2 well">
+                <h3>Chapters</h3>
+                <ul class="nav nav-pills nav-stacked">
+                    <li ng-class="{active: c.title == selected.title}" ng-repeat="c in chapters">
+                        <a href="" ng-click="get($index)">{{c.title}}</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-6" ng-show="selected">
+                <h2>{{selected.title}}</h2>
+                <dl class="dl-horizontal">
+                    <dt>Main Story Location:</dt>
+                    <dd>{{selected.location}}</dd>
+                    <dt>Period:</dt>
+                    <dd>{{selected.period}}</dd>
+                </dl>
+                <dd>
+                    <ul class="nav nav-pills nav-stacked">
+                        <li ng-repeat="s in selected.subevents">
+                            <dl class="dl-horizontal">
+                                <dt>Title:</dt>
+                                <dd>{{s.title}}</dd>
+                                <dt>Location:</dt>
+                                <dd>{{s.location}}</dd>
+                                <dt>Missable:</dt>
+                                <dd>{{s.missable}}</dd>
+                                <dt>Information:</dt>
+                                <dd>{{s.info}}</dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </dd>
+            </div>
+        </div>
+    </div>
+<script src="http://code.angularjs.org/1.2.10/angular-resource.min.js"></script>
+<script>
+    // new dependency: ngResource is included just above
+    var myapp = new angular.module("myapp", ["ngResource"]);
+
+    // inject the $resource dependency here
+    myapp.controller("MainCtl", ["$scope", "$resource", function($scope, $resource){
+        // I designed the backend to play nicely with angularjs so this is all the
+        // setup we need to do all of the ususal operations.
+        var Chapter = $resource("/chapter/:id", {id: '@id'}, {});
+        var Subevent = $resource("/subevent/:id", {id: '@id'}, {});
+
+        $scope.selected = null;
+
+        $scope.list = function(idx){
+            Chapter.query(
+                function(data)
+                {
+                    $scope.chapters = data;
+                    if(idx != undefined)
+                    {
+                        $scope.selected = $scope.chapters[idx];
+                        $scope.selected.idx = idx;
+                    }
+                },
+                function(error)
+                {
+                    alert(error.data);
+                }
+            );
+        };
+
+        $scope.list();
+
+        $scope.get = function(idx){
+            // Passing parameters to Book calls will become arguments if
+            // we haven't defined it as part of the path (we did with id)
+            console.log($scope.chapters[idx])
+
+            Chapter.get( {id: $scope.chapters[idx].chapter},
+                function(data)
+                {
+                    $scope.selected = data;
+                    $scope.selected.idx = idx;
+                }
+            );
+        };
+
+        $scope.add = function() {
+            // I was lazy with the user input.
+            var title = prompt("Enter the book's title.");
+            if(title == null){
+                return;
+            }
+            var author = prompt("Enter the book's author.");
+            if(author == null){
+                return;
+            }
+            // Creating a blank book object means you can still $save
+            var newBook = new Chapter();
+            newBook.title = title;
+            newBook.author = author;
+            newBook.$save();
+
+            $scope.list();
+        };
+
+        $scope.update = function(idx) {
+            var book = $scope.chapters[idx];
+            var title = prompt("Enter a new title", book.title);
+            if(title == null) {
+                return;
+            }
+            var author = prompt("Enter a new author", book.author);
+            if(author == null) {
+                return;
+            }
+            book.title = title;
+            book.author = author;
+            // Noticed I never created a new Book()?
+            book.$save();
+
+            $scope.list(idx);
+        };
+
+        $scope.remove = function(idx){
+            $scope.chapters[idx].$delete();
+            $scope.selected = null;
+            $scope.list();
+        };
+    }]);
+</script>
+</body>
+</html>
