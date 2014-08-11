@@ -894,7 +894,7 @@
     "chapter": 46,
     "title": "Chapter 46",
     "location": "Hamil",
-    "period": "When you regain control of the party after all the many cutscenes following the fight with Jirando and Celsius. You regain the ability to warp after viewing a short cutscene when you try to enter the eastern area of Hamil .",
+    "period": "When you regain control of the party after all the many cutscenes following the fight with Gilland and Celsius. You regain the ability to warp after viewing a short cutscene when you try to enter the eastern area of Hamil.",
     "subevents":
     [
         {
@@ -902,6 +902,7 @@
             "title": "Soldiers Who Use the Spyrix",
             "missable": true,
             "location": "Hamil",
+            "period": "When you regain control of the party after all the many cutscenes following the fight with Gilland and Celsius. You regain the ability to warp after viewing a short cutscene when you try to enter the eastern area of Hamil.",
             "info": "Walk towards the back of the orchard in the west part of Hamil until a cutscene occurs."
         },
         {
@@ -909,13 +910,16 @@
             "parent": "48",
             "title": "The Cause of the Shifting Spirit Climes Part 2/2",
             "location": "Xian Du",
+            "period": "When you regain control of the party after all the many cutscenes following the fight with Gilland and Celsius. You regain the ability to warp after viewing a short cutscene when you try to enter the eastern area of Hamil.",
             "info": "Talk to the same girl in the same place (northwest elevator) as before for a cutscene."
         },
         {
             "id": "18b",
             "parent": "18",
-            "title": "The Secret Movements of the Shadows PART 3/4",
+            "title": "Those Who Act in Shadow PART 3/4",
+            "missable": true,
             "location": "Fennmont",
+            "period": "When you regain control of the party after all the many cutscenes following the fight with Gilland and Celsius. You regain the ability to warp after viewing a short cutscene when you try to enter the eastern area of Hamil.",
             "info": "Talk to the man in red in the center of the patient receptionist room in Talim Medical School."
         }
     ]
@@ -1009,28 +1013,30 @@
             "info": "Return to the room off to the right of the entrance on the 1st floor of the apartment building 1F for another cutscene."
         },
         {
-              "id": "18c",
-              "parent": "18",
-              "title": "Those Who Act in Shadow PART 4/4",
-              "location": "Nia Khera",
-              "period": "After being able to travel between Rieze Maxia and Elympios",
-              "info": "Talk to the old man inside the meeting place (the southernmost building on the map)."
+            "id": "18c",
+            "parent": "18",
+            "title": "Those Who Act in Shadow PART 4/4",
+            "missable": true,
+            "location": "Nia Khera",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Talk to the old man inside the meeting place (the southernmost building on the map)."
         },
         {
-              "id": "29a",
-              "parent": "29",
-              "title": "The Shape of Our World PART 2/2",
-              "location": "Sharilton",
-              "period": "After being able to travel between Rieze Maxia and Elympios",
-              "info": "Talk to the man looking at the windmill in the central plaza."
+            "id": "29a",
+            "parent": "29",
+            "title": "The Shape of Our World PART 2/2",
+            "location": "Sharilton",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Talk to the man looking at the windmill in the central plaza."
         },
         {
-              "id": "36c",
-              "parent": "36",
-              "title": "Sisterhood PART 3/3",
-              "location": "Trigleph",
-              "period": "After being able to travel between Rieze Maxia and Elympios",
-              "info": "Enter the 3rd floor of the apartment building 3F for a cutscene."
+            "id": "36c",
+            "parent": "36",
+            "title": "Sisterhood PART 3/3",
+            "missable": true,
+            "location": "Trigleph",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Enter the 3rd floor of the apartment building 3F for a cutscene."
         },
         {
             "id": "40a",
