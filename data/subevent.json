@@ -2,7 +2,7 @@
     "chapter": 1,
     "title": "Chapter 1",
     "location": "Fennmont",
-    "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
+    "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab.",
     "subevents":
     [
         {
@@ -10,7 +10,7 @@
             "title": "The Cycle of Rieze Maxia",
             "missable": true,
             "location": "Fennmont",
-           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
+           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab.",
             "info": "In the Talim Medical School Student Affairs Reception area approach the man sitting in the sitting area next to the entrance for a cutscene."
         },
         {
@@ -18,7 +18,7 @@
             "title": "Gossip about Jude",
             "missable": true,
             "location": "Fennmont",
-           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
+           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab.",
             "info": "In the Talim Medical School Student Affairs Office passageway (where you started the game) approach two students talking for a cutscene."
         },
         {
@@ -26,7 +26,7 @@
             "title": "Spirit Artes Failure",
             "missable": true,
             "location": "Fennmont",
-           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
+           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab.",
             "info": "In the Academic Research District (just before Lafort Research Lab) approach the two men near one of the lampposts. One of men is sitting on the ground. "
         }
     ]
@@ -249,7 +249,7 @@
             "title": "The Sad Salesman",
             "location": "Sharilton",
             "period": "After first arriving in Sharilton.",
-            "info": "Talk to a guy on the eastern side of town, across the road from the item shop. He'll ask you to bring him 459 jet black feathers. You should have found some already. They can be found in search points and treasure chests all over the world. Throughout the game periodically drop by and deposit more feathers. You can't hold more than 99 at a time I think. You just have to deposit a TOTAL of 459 feathers to officially complete the sidequest. You'll get various rewards depending on how many feathers you've deposited. When you have in your inventory enough feathers to reach 459 total deposited, another man will be waiting in place of the usual merchant. Go to Kurama Side Road near the bottom right part of the map. After a fight there will be a scene and you will hand over the remaining feathers to complete the sidequest."
+            "info": "Talk to the merchant in the central plaza. He'll ask you to exterminate a monster in the northern section of Sapstrath Highroad. Report back after defeating the monster for a reward."
         },
         {
             "id": "23",

@@ -31,6 +31,8 @@
 
             <!-- Show when a chapter is selected -->
             <div class="col-sm-6 well" ng-show="selected">
+                <input class="form-control" ng-model="searchText" placeholder="Search Subevents">
+
                 <h3>{{selected.title}}</h3>
                 <dl class="dl-horizontal">
                     <dt>Main Story Location:</dt>
@@ -40,7 +42,7 @@
                 </dl>
                 <dd>
                     <ul class="nav nav-pills nav-stacked">
-                        <li ng-repeat="s in selected.subevents">
+                        <li ng-repeat="s in selected.subevents | filter:searchText">
                             <dl class="dl-horizontal">
                                 <dt>Title:</dt>
                                 <dd>{{s.title}}</dd>
