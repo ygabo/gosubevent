@@ -281,7 +281,7 @@
             "location": "Sharilton カラハ・シャール",
             "period": "After visiting Cline and Driselle in the Lord's residence.",
             "info": "Talk to the two girls dressed in pink standing in the area just outside the lord's mansion 領主邸前. Elize will have to bring them cute, pink items to prove her love of the color pink. Only then will the girls show her their secret treasure. The items can be found in search points in the following locations. The final item cannot be accessed until near the end of the game.",
-            "required": [ "-Cherry Tree Petal 桃桜の花びら = Bermia Gorge バーミア峡谷", "-Pink-Colored Fang 桃色象の牙 = Royal Hunting Grounds 王の狩り場中", "-Pink Emerald ピンクエメラルド = Tataal Cave タタール冥穴" ]
+            "required": [ "-Cherry Tree Petal 桃桜の花びら = Bermia Gorge バーミア峡谷", "-Pink-Colored Fang 桃色象の牙 = Royal Hunting Grounds 王の狩り場中", "-Pink Emerald ピンクエメラルド = Tatalian Abyss  タタール冥穴" ]
         }
     ]
 },
@@ -476,7 +476,7 @@
             "title": "Beat the Bandits 窃盗団を倒せ",
             "location": "Leronde ル・ロンド",
             "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "info": "Talk to Leia's father in the inn. He asks you to fight thieves that have escaped into the abandoned Baikarl Mine バイカール廃坑. You haven't been to this area yet. To get to it, exit Leronde ル・ロンド into Boltea Forest Road ボルテア森道. Head east into the next area. On the raised part of the land there's a small hole you can crawl into to enter the Baikarl Mine バイカール廃坑. The enemies in here are tough, I wouldn't recommend fighting them at this point. The thieves are in the open area in the western part of the first map. Report back for a reward.",
+            "info": "Talk to Leia's father in the inn. He asks you to fight thieves that have escaped into the abandoned Old Vicalle Mine バイカール廃坑. You haven't been to this area yet. To get to it, exit Leronde ル・ロンド into Boltea Forest Road ボルテア森道. Head east into the next area. On the raised part of the land there's a small hole you can crawl into to enter the Old Vicalle Mine バイカール廃坑. The enemies in here are tough, I wouldn't recommend fighting them at this point. The thieves are in the open area in the western part of the first map. Report back for a reward.",
             "reward": "Goblin Mask Attachment 天狗の面"
         },
         {
@@ -882,6 +882,7 @@
             "title": "Sisterhood 姉と妹と PART 2/3",
             "missable": true,
             "location": "Kanbalar カン・バルク",
+            "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
             "info": "After reuniting with your party members a cutscene should take place if you walk away from the throne room inside the castle."
         },
         {
@@ -890,6 +891,7 @@
             "title": "The History of Auj Oule ア・ジュール、その歴史 PART 4/4",
             "missable": true,
             "location": "Kanbalar カン・バルク",
+            "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
             "info": "Talk to Karla in the inn for a cutscene."
         },
         {
@@ -897,14 +899,292 @@
             "title": "Jiao and Wingul ジャオとウィンガル",
             "missable": true,
             "location": "Kanbalar カン・バルク",
+            "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
             "info": "Talk to Wingul in the throne room."
         },
         {
             "id": "76",
             "title": "Monsters in the Cave 洞窟の魔物",
             "location": "Kanbalar カン・バルク",
+            "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
             "info": "Talk to the man in one of the rooms on the 2nd floor of the inn. He asks you to defeat a fire tiger in Nala Lava Tubes ノール灼洞. You can get there through Xailen Woods ザイラの森. Report back for a reward.",
             "reward": "blindfold attachment 目隠し"
+        }
+    ]
+},
+{
+    "chapter": 46,
+    "title": "Chapter 46 ガイアスのもくろみ",
+    "location": "Hamil ハ・ミル",
+    "period": "When you regain control of the party after all the many cutscenes following the fight with Jirando and Celsius. You regain the ability to warp after viewing a short cutscene when you try to enter the eastern area of Hamil ハ・ミル 東部.",
+    "subevents":
+    [
+        {
+            "id": "77",
+            "title": "Soldiers Who Use the Spyrix 黒匣を使う兵士",
+            "missable": true,
+            "location": "Hamil ハ・ミル",
+            "info": "Walk towards the back of the orchard in the west part of Hamil ハ・ ミル西部 until a cutscene occurs.",
+            "reward": "Spirit Stone Remnants 精霊の化石の抜け殻"
+        },
+        {
+            "id": "48a",
+            "parent": "48",
+            "title": "The Cause of the Shifting Spirit Climes 霊勢変化の原因 Part 2/2",
+            "location": "Xian Du シャン・ドゥ",
+            "info": "Talk to the same girl in the same place (northwest elevator) as before for a cutscene."
+        },
+        {
+            "id": "18b",
+            "parent": "18",
+            "title": "The Secret Movements of the Shadows 暗躍する影たち PART 3/4",
+            "location": "Fenmont",
+            "info": "Talk to the man in red in the center of the patient receptionist room in Talim Medical School タリム医学校　外来受付."
+        }
+    ]
+},
+{
+    "chapter": 53,
+    "title": "Chapter 53 異世界の街",
+    "location": "Trigleph トリグラフ",
+    "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+    "subevents":
+    [
+        {
+            "id": "78",
+            "title": "The Inventor King 発明王",
+            "location": "Trigleph トリグラフ",
+            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+            "info": "Talk to the man in the hallway of the 2nd floor of the apartment  building ロドマンション 2F　廊下. He asks you to bring him a navi-metal ナビ メタル. You may already have some (it is dropped by human-looking monster  in Nala Lava Tubes ノール灼洞). If not, it is dropped by and stealable from  certain enemies in Helioborg Fortress ヘリオボーグ基地. It can also be found in  search points within Tatalian Abyss  タタール冥穴 which you have access to  after clearing Helioborg Fortress ヘリオボーグ基地. You can reach Tatalian Abyss   タタール冥穴 through Lusar Highway ルサル街道. Bring the navi-metal ナビメタ ル to him for a reward.",
+            "reward": "Krona Symbol クローナシンボル"
+        },
+        {
+            "id": "79",
+            "title": "A Bold New Recipe 見果てぬレシピ",
+            "location": "Trigleph トリグラフ",
+            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+            "info": "Talk to the old man in the park 市民公園　in front of the apartment building. He asks you to buy cream croquette parfait クリームコロッケパフェ. Buy one from the food shop (level 29+) and give it to him for a reward.",
+            "reward": "11400 gald, pipe attachment パイプ"
+        },
+        {
+            "id": "80",
+            "title": "The Spread of the Spyrix 黒匣の普及",
+            "location": "Trigleph トリグラフ",
+            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+            "info": "Enter room 102 in the apartment building ロドマンション102号室 for a cutscene."
+        },
+        {
+            "id": "81",
+            "title": "Rumors of Elympios エレンピオスの噂話 PART 1/2",
+            "location": "Trigleph トリグラフ",
+            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+            "info": "Approach the group of people in the room to the right when you enter the apartment building ロドマンション 1F for a cutscene."
+        },
+        {
+            "id": "82",
+            "title": "Hunt Down the Shadow Stalkers ガリィ狩り狩り",
+            "location": "Trigleph トリグラフ",
+            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+            "info": "Talk to the man near the entrance of the port area トリグラフ港. He asks you to defeat Shadow Stalkers in the south section of Torbalan Highroad トルバラン街道 南部. They are in the southern part of the map by a tree. Report back for a reward.",
+            "reward": "11400 gald, mystery mask 怪傑マスク仮面"
+        },
+        {
+            "id": "83",
+            "title": "From the Position of Authority 責任ある立場",
+            "location": "Trigleph トリグラフ",
+            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+            "info": "Talk to the two men on the upper level in the northwest part of the port area トリグラフ港 for a scene."
+        },
+        {
+            "id": "84",
+            "title": "The Cycle of Elympios エレンピオスの循環",
+            "location": "Trigleph トリグラフ",
+            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+            "info": "After viewing the story cutscene when you try to leave the city (after you learn Helioborg Fortress ヘリオボーグ基地 has been attacked), approach the center of the shopping district 商業区　for a cutscene."
+        }
+    ]
+},
+{
+    "chapter": 56,
+    "title": "Chapter 56 それぞれの心",
+    "location": "Trigleph トリグラフ",
+    "period": "After clearing Helioborg Fortress ヘリオボーグ基地",
+    "subevents":
+    [
+        {
+            "id": "85",
+            "title": "The Otherworld Reactor Plan 異界炉計画",
+            "location": "Trigleph トリグラフ",
+            "period": "After clearing Helioborg Fortress ヘリオボーグ基地",
+            "info": "Enter room 303 in the apartment building ロドマンション303号室 for a cutscene."
+        }
+    ]
+},
+{
+    "chapter": 58,
+    "title": "Chapter 58 己が道為に",
+    "location": "Trigleph トリグラフ",
+    "period": "After being able to travel between Reize Maxia and Elympios",
+    "subevents":
+    [
+        {
+            "id": "81",
+            "title": "Rumors of Elympios エレンピオスの噂話 PART 2/2",
+            "location": "Trigleph トリグラフ",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Return to the room off to the right of the entrance on the 1st floor of the apartment building ロドマンション 1F for another cutscene."
+        },
+        {
+              "id": "18c",
+              "parent": "18",
+              "title": "Those Who Act in Shadow 暗躍する影たち PART 4/4",
+              "location": "Nia Khera ニ・アケリア",
+              "period": "After being able to travel between Reize Maxia and Elympios",
+              "info": "Talk to the old man inside the meeting place 集会場 (the southernmost building on the map)."
+        },
+        {
+              "id": "29a",
+              "parent": "29",
+              "title": "The Shape of Our World 世界の形 PART 2/2",
+              "location": "Sharilton カラハ・シャール",
+              "period": "After being able to travel between Reize Maxia and Elympios",
+              "info": "Talk to the man looking at the windmill in the central plaza 中央広場."
+        },
+        {
+              "id": "36c",
+              "parent": "36",
+              "title": "Sisterhood 姉と妹と PART 3/3",
+              "location": "Trigleph トリグラフ",
+              "period": "After being able to travel between Reize Maxia and Elympios",
+              "info": "Enter the 3rd floor of the apartment building ロドマンション 3F for a cutscene."
+        },
+        {
+            "id": "40a",
+            "parent": "40",
+            "title": "The Edge of the World 世界の果て PART 2/2",
+            "location": "Lakutam Seahaven ラコルム海停",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Approach the edge near the water on the north side of town on the level below the entrance to the inn for another scene."
+        },
+        {
+            "id": "42b",
+            "parent": "42",
+            "title": "Memories of Leronde ル・ロンドの思い出 PART 3/3",
+            "location": "Leronde ル・ロンド",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Inspect the food to your left when you enter the inn (on thecounter by the food shop) for a cutscene."
+        },
+        {
+            "id": "53a",
+            "parent": "53",
+            "title": "Mother and Child 母と子 PART 2/2",
+            "location": "Xian Du シャン・ドゥ",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Visit Alvin's mother's house for a cutscene. Enter the southeast elevator and the elevator in the next area to get there. Afterwards go find Isura on the first bridge of Labari Hollow リーベリー岩孔 for another cutscene.",
+            "reward": "Gunbelt attachment ガンベルト"
+        },
+        {
+            "id": "60a",
+            "parent": "60",
+            "title": "Jude's Substitute ジュードの代診 PART 2/2",
+            "location": "Leronde ル・ロンド",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Approach the Mathis Clinic マティス治療院 for a cutscene. Then go to the Felgana Mine mining area 4 フェルガナ鉱山 第4鉱区 (the area before the area where you fought the boss) and go to the bottom left part of the map for a cutscene.",
+            "reward": "Spirit Symbol メンタルシンボル"
+        },
+        {
+            "id": "71a",
+            "parent": "71",
+            "title": "Leia's Failure? レイアの失敗？ PART 2/2",
+            "location": "Fennmont イル・ファン",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Go to Talim Medical School Outpatient Building examination room 5 タリム医学校 外来棟 第5診察室 again for a cutscene."
+        },
+        {
+            "id": "86",
+            "title": "The Origin of Spyrite 源霊匣誕生",
+            "location": "Helioborg Fortress ヘリオボーグ基地",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Enter the base from Torbalan Highroad トルバラン街道 and proceed into the first hallway and a cutscene should activate."
+        },
+        {
+            "id": "87",
+            "title": "The Devil Beast Attacks 魔装獣の襲撃",
+            "location": "Helioborg Fortress ヘリオボーグ基地",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "This sidequest is related to the Fell Arms Beasts Sidequest, see the respective section below for more details. From the laboratory on the 13th floor 兵装研究棟　１３F　研究室　go up to the roof　兵装研究棟　14F 屋上　(where you fought Volt), and after a cutscene you will fight the Fell Arms beast Melanbron."
+        },
+        {
+            "id": "88",
+            "title": "The Gathering Miasma あふれ出る瘴気",
+            "location": "Tatalian Abyss タタール冥穴",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "This sidequest is related to the Fell Arms Beasts Sidequest, see the respective section below for more details. Proceed through the 1st floor of Tatalian Abyss タタール冥穴 for a scene. You have to destroy both seals to proceed in each floor. Just approach the wind seal (the floating crystal)  to destroy it which will activate the earth seal (the glowing ring). For the earth seal you must jump down onto it from a high place to destroy it. Proceed to the deepest part of the cave 最深部 to fight the Fell Arms Beast Dransword."
+        },
+        {
+            "id": "89",
+            "title": "Gaius, the King 王、ガイアス",
+            "location": "Kanbalar カン・バルク",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "You must have at least started the sidequest 'The History of Auj Oule' ア・ジュール、その歴史. Go to the gate just beforethe entrance to Gaius's castle in Kanbalar カン・バルク for a cutscene."
+        },
+        {
+            "id": "91",
+            "title": "What Lies in Memory 記憶の底にあるもの",
+            "location": "Labari Hollow リーベリー岩孔",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "You must have completed the sidequests 'Reawakened Memories' 甦る記憶 and 'Mother and Child' 母と子. Enter Labari Hollow リーベリー岩孔 for a cutscene. Then go to the central section of Mon Highlands モン高原 and enter the Cave of Silence 音無しの洞窟. 3/4 of the way down the passageway there should be a hole in the wall on the right that you can crawl through. Proceed through to the next area, Mon Highlands northern side モン高原　北方 for a cutscene.",
+            "reward": "princesshia flower (a material for leveling shops) プリンセシア"
+        },
+        {
+            "id": "92",
+            "title": "Take Over Fort Gandala ガンダラ要塞攻略戦",
+            "location": "Sharilton カラハ・シャール",
+            "info": "Go to the lord's mansion in Sharilton カラハ・シャール 領主邸 for a cutscene. Then go to Fort Gandala ガンダラ要塞 and proceed to control room #2 in the North section, 1st floor北部下層 1F 第02制御室. Go down the stairs and you will receive a Golem Inhibtor ゴーレム撹乱器. Return the large passageway 中央大通路 and you will fight the golems. Report back to Driselle for a reward.",
+            "reward": "Key item 異能の書「絶術拒絶」 that teaches Rowen the skill 'Anti-Magic' アンチマジック"
+        },
+        {
+            "id": "93",
+            "title": "Love-Fevered Visions 愛しき人の幻",
+            "location": "Fezebel Marsh ファイザバード沼野",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Enter Fezebel Marsh ファイザバード沼野 from the Arkland Quag アルカンド湿原 for a cutscene. Then approach a girl in the center of the shopping district of Trigleph トリグラフ 商業区 for another cutscene. Then go to the lord's mansion in Sharilton カラハ・シャール 領主邸 for another cutscene."
+        },
+        {
+            "id": "94",
+            "title": "The Aspyrixis 医療ジンテクス",
+            "location": "Leronde ル・ロンド",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "After completing the sidequest 'Jude's Substitute' ジュードの代診 visit the Mathis Clinic マティス治療院 in Leronde ル・ロンド for a cutscene. Go to the northern section of Old Vicalle Mine バイカール廃坑 北部 and approach to the kid in the southwest part of the open area on the left side of the map for a cutscene."
+        },
+        {
+            "id": "95",
+            "title": "Homing Instinct 帰巣本能",
+            "location": "Xian Du シャン・ドゥ",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "You should have completed the sidequest 'Where Did the Wyvern Go?' ワイバーンはどこに？. If you don't before completing this one, you will no longer be able to complete it. Go to the wyvern cage in Xian Du シャン・ドゥ for a cutscene. The cage is in the area through the northeast elevator."
+        },
+        {
+            "id": "96",
+            "title": "Sustaining Anxiety 不安を抑えて",
+            "location": "Fennmont イル・ファン",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Stay at the inn for a cutscene. Then stay at the inn once again for another cutscene."
+        },
+        {
+            "id": "97",
+            "title": "Muzet Attacks ミュゼの襲撃",
+            "location": "Nia Khera ニ・アケリア",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Talk to a girl near the exit that leads to Kijara Seafalls キジル海瀑 for a cutscene."
+        },
+        {
+            "id": "98",
+            "title": "The Lost Transcendental Ring 失われた理外の環",
+            "location": "Xailen Woods Temple ザイラの森の教会",
+            "period": "After being able to travel between Reize Maxia and Elympios",
+            "info": "Collect all 23 Mysterious Orbs 謎の宝珠. Bring them to the altar at the Xailen Woods Temple ザイラの森の教会 and you will fight a boss. Be careful, these enemies are level 68. For more information on the location of all the orbs look at the end of this guide.",
+            "reward": "Key item 絶技の書「一刺必滅」 that teaches Jude the arte '尖牙', a title 「闇を打ち払う者」"
         }
     ]
 }]
