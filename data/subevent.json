@@ -207,10 +207,10 @@
         },
         {
             "id": "20",
-            "title": "Fell Arms Beasts 魔装獣",
+            "title": "The Devil's Beasts 魔装獣",
             "location": "Sapstrath Seahaven サマンガン海停",
             "period": "After arriving in Sapstrath Seahaven サマンガン海停",
-            "info": "Attempt to leave Sapstrath Seahaven and the storyteller will tell you about the Fell Arms Beasts. This quest is also related to the secret dungeon. See the Fell Arms Beasts Sidequest section at the bottom of this guide for more information."
+            "info": "Attempt to leave Sapstrath Seahaven and the storyteller will tell you about the Devil's Beasts. This quest is also related to the secret dungeon. See the Devil's Beasts Sidequest section at the bottom of this guide for more information."
         }
     ]
 },
@@ -955,7 +955,7 @@
             "title": "The Inventor King 発明王",
             "location": "Trigleph トリグラフ",
             "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
-            "info": "Talk to the man in the hallway of the 2nd floor of the apartment  building ロドマンション 2F　廊下. He asks you to bring him a navi-metal ナビ メタル. You may already have some (it is dropped by human-looking monster  in Nala Lava Tubes ノール灼洞). If not, it is dropped by and stealable from  certain enemies in Helioborg Fortress ヘリオボーグ基地. It can also be found in  search points within Tatalian Abyss  タタール冥穴 which you have access to  after clearing Helioborg Fortress ヘリオボーグ基地. You can reach Tatalian Abyss   タタール冥穴 through Lusar Highway ルサル街道. Bring the navi-metal ナビメタ ル to him for a reward.",
+            "info": "Talk to the man in the hallway of the 2nd floor of the apartment  building ロドマンション 2F　廊下. He asks you to bring him a navi-metal ナビ メタル. You may already have some (it is dropped by human-looking monster  in Nala Lava Tubes ノール灼洞). If not, it is dropped by and stealable from  certain enemies in Helioborg Fortress ヘリオボーグ基地. It can also be found in  search points within Tatalian Abyss  タタール冥穴 which you have access to  after clearing Helioborg Fortress ヘリオボーグ基地. You can reach Tatalian Abyss   タタール冥穴 through Rusalle Highroad ルサル街道. Bring the navi-metal ナビメタ ル to him for a reward.",
             "reward": "Krona Symbol クローナシンボル"
         },
         {
@@ -1112,14 +1112,14 @@
             "title": "The Devil Beast Attacks 魔装獣の襲撃",
             "location": "Helioborg Fortress ヘリオボーグ基地",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "This sidequest is related to the Fell Arms Beasts Sidequest, see the respective section below for more details. From the laboratory on the 13th floor 兵装研究棟　１３F　研究室　go up to the roof　兵装研究棟　14F 屋上　(where you fought Volt), and after a cutscene you will fight the Fell Arms beast Melanbron."
+            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. From the laboratory on the 13th floor 兵装研究棟　１３F　研究室　go up to the roof　兵装研究棟　14F 屋上　(where you fought Volt), and after a cutscene you will fight the Fell Arms beast Melanbron."
         },
         {
             "id": "88",
             "title": "The Gathering Miasma あふれ出る瘴気",
             "location": "Tatalian Abyss タタール冥穴",
             "period": "After being able to travel between Rieze Maxia and Elympios",
-            "info": "This sidequest is related to the Fell Arms Beasts Sidequest, see the respective section below for more details. Proceed through the 1st floor of Tatalian Abyss タタール冥穴 for a scene. You have to destroy both seals to proceed in each floor. Just approach the wind seal (the floating crystal)  to destroy it which will activate the earth seal (the glowing ring). For the earth seal you must jump down onto it from a high place to destroy it. Proceed to the deepest part of the cave 最深部 to fight the Fell Arms Beast Dransword."
+            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. Proceed through the 1st floor of Tatalian Abyss タタール冥穴 for a scene. You have to destroy both seals to proceed in each floor. Just approach the wind seal (the floating crystal)  to destroy it which will activate the earth seal (the glowing ring). For the earth seal you must jump down onto it from a high place to destroy it. Proceed to the deepest part of the cave 最深部 to fight the Fell Arms Beast Dransword."
         },
         {
             "id": "89",
