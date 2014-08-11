@@ -18,7 +18,7 @@
     </div>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm-3 well">
+            <div class="col-sm-2 well">
                 <a href="" ng-click="allChapters()">
                     <h3>Chapters</h3>
                 </a>
@@ -31,7 +31,7 @@
 
             <!-- Show when a chapter is selected -->
             <div class="col-sm-6 well" ng-show="selected">
-                <h4>{{selected.title}}</h4>
+                <h3>{{selected.title}}</h3>
                 <dl class="dl-horizontal">
                     <dt>Main Story Location:</dt>
                     <dd>{{selected.location}}</dd>
@@ -56,20 +56,15 @@
                 </dd>
             </div>
 
-            <!-- All Subevents. Show when a NO chapter is selected -->
+            <!-- All Subevents. Show when NO chapter is selected -->
             <div class="col-sm-6 well" ng-show="!selected">
+            <input class="form-control" ng-model="searchText" placeholder="Search Subevents">
+            <br></br>
             <ul class="nav nav-pills nav-stacked">
                <li ng-repeat="c in chapters">
-                    <h4>{{c.title}}</h4>
-                    <dl class="dl-horizontal">
-                        <dt>Main Story Location:</dt>
-                        <dd>{{c.location}}</dd>
-                        <dt>Period:</dt>
-                        <dd>{{c.period}}</dd>
-                    </dl>
                     <dd>
                         <ul class="nav nav-pills nav-stacked">
-                            <li ng-repeat="s in c.subevents">
+                            <li ng-repeat="s in c.subevents| filter:searchText">
                                 <dl class="dl-horizontal">
                                     <dt>Title:</dt>
                                     <dd>{{s.title}}</dd>
@@ -77,6 +72,8 @@
                                     <dd>{{s.missable}}</dd>
                                     <dt>Location:</dt>
                                     <dd>{{s.location}}</dd>
+                                    <dt>Period:</dt>
+                                    <dd>{{s.period}}</dd>
                                     <dt>Information:</dt>
                                     <dd>{{s.info}}</dd>
                                 </dl>

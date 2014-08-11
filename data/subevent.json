@@ -10,24 +10,24 @@
             "title": "The Cycle of Rieze Maxia",
             "missable": true,
             "location": "Fennmont",
-            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
-            "info": "In the Talim Medical School Student Affairs Reception area   approach the man sitting in the sitting area next to the entrance for a cutscene."
+           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
+            "info": "In the Talim Medical School Student Affairs Reception area approach the man sitting in the sitting area next to the entrance for a cutscene."
         },
         {
             "id": "2",
             "title": "Gossip about Jude",
             "missable": true,
             "location": "Fennmont",
-            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
-            "info": "In the Talim Medical School Student Affairs Office passageway    (where you started the game) approach two students talking for a cutscene."
+           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
+            "info": "In the Talim Medical School Student Affairs Office passageway (where you started the game) approach two students talking for a cutscene."
         },
         {
             "id": "3",
             "title": "Spirit Artes Failure",
             "missable": true,
             "location": "Fennmont",
-            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
-            "info": "In the Academic Research District  (just before Lafort Research Lab) approach the two men near one of the lampposts. One of men is sitting on the ground. "
+           "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab",
+            "info": "In the Academic Research District (just before Lafort Research Lab) approach the two men near one of the lampposts. One of men is sitting on the ground. "
         }
     ]
 },
@@ -44,8 +44,7 @@
         "missable": false,
         "location": "Aladhi Seahaven",
         "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven for the second time. This should be after exterminating a monster in the Ilart Highway and sleeping at the inn.",
-        "info": "In the Talim Medical School Student Affairs Reception area   approach the man sitting in the sitting area next to the entrance for a cutscene.",
-        "reward": "1200 gald, belt dagger attachment"
+        "info": "In the Talim Medical School Student Affairs Reception area approach the man sitting in the sitting area next to the entrance for a cutscene."
       },
       {
         "id": "5",
@@ -61,8 +60,7 @@
         "missable": false,
         "location": "Aladhi Seahaven",
         "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven for the second time. This should be after exterminating a monster in the Ilart Highway and sleeping at the inn.",
-        "info": "Talk to a man standing in the central area near the stairs. He'll ask you to buy him soda rice from the food shop (in the inn). Size of the food doesn't matter. ",
-        "reward": "1200 gald, thick eyebrows attachment"
+        "info": "Talk to a man standing in the central area near the stairs. He'll ask you to buy him soda rice from the food shop (in the inn). Size of the food doesn't matter. "
       }
     ]
 },
@@ -78,6 +76,7 @@
             "title" : "The Myth of Maxwell",
             "missable": true,
             "location": "Nia Khera",
+            "period": "Right after arriving in Nia Khera for the first time.",
             "info": "Talk to the old man near the exit that leads to Kijara Seafalls for a cutscene."
         },
         {
@@ -85,23 +84,23 @@
             "id": "8",
             "title" : "Incoming Monster",
             "location": "Nia Khera",
-            "info": "Talk to the old person standing in front of the exit to Nia Khera Spiritway. Defeat the monster in the Northeast section of Nia Khera Spiritway . Report back for your reward",
-            "reward": "1800 gald, elf ears attachment"
+            "period": "Right after arriving in Nia Khera for the first time.",
+            "info": "Talk to the old person standing in front of the exit to Nia Khera Spiritway. Defeat the monster in the Northeast section of Nia Khera Spiritway . Report back for your reward"
         },
         {
             "id": "9",
             "title" : "Offerings for Milla",
             "location": "Nia Khera",
-            "info": "Talk to the girl standing next to one of the mini shrine pedestals in the northern part of the village. She'll ask you to retrieve insect husk for her. This can be found at random in a search point (the sparkles and bags you find lying around fields) anywhere in Nia Khera Shrine Road. Bring it back to her when you find it.",
-            "reward": "1800 gald, hair antenna attachment"
+            "period": "Right after arriving in Nia Khera for the first time.",
+            "info": "Talk to the girl standing next to one of the mini shrine pedestals in the northern part of the village. She'll ask you to retrieve insect husk for her. This can be found at random in a search point (the sparkles and bags you find lying around fields) anywhere in Nia Khera Shrine Road. Bring it back to her when you find it."
 
         },
         {
             "id": "10",
             "title" : "Something Tasty",
             "location": "Nia Khera",
-            "info": "Talk to the boy near the exit that leads to Kijara Seafalls and he'll ask you to bring him a fruit called a 'napple'  which can be found by searching the cabinets of one of the houses in Hamil . The house is west of the village elder's house, but it's still within the eastern half of the village. You can do this now or wait until you get the ability to warp, which you'll get quite soon.",
-            "reward": "nasal mucus attachment"
+            "period": "Right after arriving in Nia Khera for the first time.",
+            "info": "Talk to the boy near the exit that leads to Kijara Seafalls and he'll ask you to bring him a fruit called a 'napple' which can be found by searching the cabinets of one of the houses in Hamil . The house is west of the village elder's house, but it's still within the eastern half of the village. You can do this now or wait until you get the ability to warp, which you'll get quite soon."
         }
     ]
 },
@@ -134,22 +133,22 @@
             "title": "The people of Hamil",
             "missable": true,
             "location": "Hamil",
-            "period": "After acquiring the world map and getting the ability to warp.",
+            "period": "Just after leaving Hamil on your way back to Aladhi Seahaven after Elize joins your party as a guest.",
             "info": "Reenter Hamil for a scene."
         },
         {
             "id": "5a",
             "parent" : "5",
-            "title": "Fruit Merchant PART 2/2",
+            "title": "Fruit Seller PART 2/2",
             "location": "Hamil",
-            "period": "After acquiring the world map and getting the ability to warp.",
-            "info": "Go into the basement of the small storage shed in the western part of Hamil and search the desk for a 'porange'. Give it to the fruit merchant back in Aladhi Seahaven for a reward."
+            "period": "Just after leaving Hamil on your way back to Aladhi Seahaven after Elize joins your party as a guest.",
+            "info": "Go into the basement of the small storage shed in the western part of Hamil and search the desk for a 'porange'. Give it to the Fruit Seller back in Aladhi Seahaven for a reward."
         },
         {
             "id": "13",
             "title": "Rappig, Rappig",
             "location": "Nia Khera",
-            "period": "After acquiring the world map and getting the ability to warp.",
+            "period": "Just after leaving Hamil on your way back to Aladhi Seahaven after Elize joins your party as a guest.",
             "info": "Approach the two rappigs (rabbit/pigs) in the center of the village for a scene."
         }
     ]
@@ -178,7 +177,7 @@
         },
         {
             "id": "16",
-            "title": "Anticipated Reunion !?  PART 1/2",
+            "title": "Anticipated Reunion !? PART 1/2",
             "missable": true,
             "location": "Sapstrath Seahaven",
             "period": "After arriving in Sapstrath Seahaven",
@@ -232,7 +231,7 @@
         {
             "id": "16a",
             "parent": "16",
-            "title": "Anticipated Reunion !?  PART 2/2",
+            "title": "Anticipated Reunion !? PART 2/2",
             "missable": true,
             "location": "Sharilton",
             "period": "After first arriving in Sharilton.",
@@ -281,7 +280,7 @@
             "location": "Sharilton",
             "period": "After visiting Cline and Driselle in the Lord's residence.",
             "info": "Talk to the two girls dressed in pink standing in the area just outside the lord's mansion. Elize will have to bring them cute, pink items to prove her love of the color pink. Only then will the girls show her their secret treasure. The items can be found in search points in the following locations. The final item cannot be accessed until near the end of the game.",
-            "required": [ "-Cherry Tree Petal  = Bermia Gorge", "-Pink-Colored Fang  = Royal Hunting Grounds", "-Pink Emerald  = Tatalian Abyss" ]
+            "required": [ "-Cherry Tree Petal = Bermia Gorge", "-Pink-Colored Fang = Royal Hunting Grounds", "-Pink Emerald = Tatalian Abyss" ]
         }
     ]
 },
@@ -421,7 +420,7 @@
             "title": "Sisterhood PART 1/3",
             "missable": true,
             "period": "After arriving in Lakutam Seahaven when you finally have all 6 party members and you are about to depart to Lakutam Highroad.",
-            "location": "Lakutam Seahaven  ",
+            "location": "Lakutam Seahaven",
             "info": "Talk to the two sisters on the south side of town for a cutscene."
         },
         {
@@ -444,8 +443,7 @@
             "title": "Buried Treasure !?",
             "location": "Lakutam Seahaven",
             "period": "After arriving in Lakutam Seahaven when you finally have all 6 party members and you are about to depart to Lakutam Highroad.",
-            "info": "Talk to the man near the shops. Then deliver his package to the antique shop in the eastern side of Sharilton. This is the shop where you first met Driselle.",
-            "reward": "5000 gald, circlet attachment"
+            "info": "Talk to the man near the shops. Then deliver his package to the antique shop in the eastern side of Sharilton. This is the shop where you first met Driselle."
         },
         {
             "id": "40",
@@ -460,24 +458,21 @@
             "title": "The Elder's Plea",
             "location": "Leronde",
             "period": "After arriving in Lakutam Seahaven when you finally have all 6 party members and you are about to depart to Lakutam Highroad.",
-            "info": "Talk to the old man on the main road. He asks you to pour sake in a nook at the back of the monster nest in Felghana Mine 4 for one of his fellow miners that died. It's the area where you fought the boss.",
-            "reward": "cordierite (a material for leveling shops) "
+            "info": "Talk to the old man on the main road. He asks you to pour sake in a nook at the back of the monster nest in Felghana Mine 4 for one of his fellow miners that died. It's the area where you fought the boss."
         },
         {
             "id": "42",
             "title": "Memories of Leronde PART 1/3",
             "location": "Leronde",
             "period": "After arriving in Lakutam Seahaven when you finally have all 6 party members and you are about to depart to Lakutam Highroad.",
-            "info": "Enter the inn for a scene.",
-            "reward": "Piyonan accessory"
+            "info": "Enter the inn for a scene."
         },
         {
             "id": "43",
             "title": "Beat the Bandits",
             "location": "Leronde",
             "period": "After arriving in Lakutam Seahaven when you finally have all 6 party members and you are about to depart to Lakutam Highroad.",
-            "info": "Talk to Leia's father in the inn. He asks you to fight thieves that have escaped into the abandoned Old Vicalle Mine. You haven't been to this area yet. To get to it, exit Leronde into Boltea Forest Road. Head east into the next area. On the raised part of the land there's a small hole you can crawl into to enter the Old Vicalle Mine. The enemies in here are tough, I wouldn't recommend fighting them at this point. The thieves are in the open area in the western part of the first map. Report back for a reward.",
-            "reward": "Goblin Mask Attachment"
+            "info": "Talk to Leia's father in the inn. He asks you to fight thieves that have escaped into the abandoned Old Vicalle Mine. You haven't been to this area yet. To get to it, exit Leronde into Boltea Forest Road. Head east into the next area. On the raised part of the land there's a small hole you can crawl into to enter the Old Vicalle Mine. The enemies in here are tough, I wouldn't recommend fighting them at this point. The thieves are in the open area in the western part of the first map. Report back for a reward."
         },
         {
             "id": "44",
@@ -531,16 +526,14 @@
             "title": "The Wandering Youth",
             "period": "Just after arriving in Xian Du for the first time.",
             "location": "Xian Du",
-            "info": "Talk to the girl in the southeast area of the main town. She's near the boat dock that leads to Xagut Floodmeadow. She asks you to find her brother. Take the boat at this dock and you can find the brother in the northern section of Xagut Floodmeadow .",
-            "reward": "fruit of a large tree (a material for leveling shops) "
+            "info": "Talk to the girl in the southeast area of the main town. She's near the boat dock that leads to Xagut Floodmeadow. She asks you to find her brother. Take the boat at this dock and you can find the brother in the northern section of Xagut Floodmeadow ."
         },
         {
             "id": "50",
             "title": "Spirit Clime Trouble",
             "period": "Just after arriving in Xian Du for the first time.",
             "location": "Lakutam Seahaven",
-            "info": "Talk to the girl inside the inn. She asks you to defeat a monster in the central section of Lakutam Highroad . The monster should be near the pond in the southwest part of the map. Report back for a reward.",
-            "reward": "5400 gald, accomplice mask attachment"
+            "info": "Talk to the girl inside the inn. She asks you to defeat a monster in the central section of Lakutam Highroad . The monster should be near the pond in the southwest part of the map. Report back for a reward."
         }
     ]
 },
@@ -556,8 +549,7 @@
             "title": "Punish the Poachers",
             "location": "Xian Du",
             "period": "On your way to save Elize and Teepo from Labari Hollow",
-            "info": "Talk to the girl near the exit to the Royal Hunting Grounds. She asks you to put a stop to the poachers in the northern section of the Royal Hunting Grounds . They're on a platform in the center of the area. Report back for a reward.",
-            "reward": "5600 gald, horns attachment"
+            "info": "Talk to the girl near the exit to the Royal Hunting Grounds. She asks you to put a stop to the poachers in the northern section of the Royal Hunting Grounds . They're on a platform in the center of the area. Report back for a reward."
         }
     ]
 },
@@ -574,8 +566,7 @@
             "title": "The Topknot Master PART 2/2",
             "location": "Lakutam Seahaven",
             "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow.",
-            "info": "The feudal lord topknot can be found in an Aifread treasure (the diamond shaped treasures found in fields, usually in trees or sticking out of rocks) in the western section of the Royal Hunting Grounds . Give this to the old man for a reward.",
-            "reward": "pigtails attachment"
+            "info": "The feudal lord topknot can be found in an Aifread treasure (the diamond shaped treasures found in fields, usually in trees or sticking out of rocks) in the western section of the Royal Hunting Grounds . Give this to the old man for a reward."
         },
         {
             "id": "52",
@@ -607,8 +598,7 @@
             "title": "Potent Potions of the Kitarl Clan",
             "location": "Xian Du",
             "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow.",
-            "info": "Talk to the man in front of the receptionist inside the arena. He wants a Mysterious Bead. This can be found in a treasure chest in the southeast area of Mon Highlands   (inside one of the caves through one of the small holes in the cliff wall).  Give him the Mysterious Bead for a reward.",
-            "reward": "Item Ball Plus"
+            "info": "Talk to the man in front of the receptionist inside the arena. He wants a Mysterious Bead. This can be found in a treasure chest in the southeast area of Mon Highlands (inside one of the caves through one of the small holes in the cliff wall). Give him the Mysterious Bead for a reward."
         },
         {
             "id": "56",
@@ -658,16 +648,14 @@
             "title": "Runaway Rappig",
             "location": "Kanbalar",
             "period": "After the cutscene in the residential district with Elize and Jiao. Before you go to the castle to see King Gaius.",
-            "info": "Talk to the girl in the plaza of the residential district. Her rappig has escaped. You can find it in the central section of Mohn Plateau Mon Highlands   hiding behind a rock. Report back for a reward.",
-            "reward": "6000 gald, white rabbit ears attachment"
+            "info": "Talk to the girl in the plaza of the residential district. Her rappig has escaped. You can find it in the central section of Mohn Plateau Mon Highlands hiding behind a rock. Report back for a reward."
         },
         {
             "id": "59",
             "title": "Survival of the Fittest",
             "location": "Kanbalar",
             "period": "After the cutscene in the residential district with Elize and Jiao. Before you go to the castle to see King Gaius.",
-            "info": "Talk to the soldier near the exit to Mon Highlands. He asks you to defeat a monster in the central section of Mon Highlands . Report back for a reward.",
-            "reward": "6000 gald, earmuffs attachment"
+            "info": "Talk to the soldier near the exit to Mon Highlands. He asks you to defeat a monster in the central section of Mon Highlands . Report back for a reward."
         }
     ]
 },
@@ -700,8 +688,7 @@
             "title": "Poetry and Dictionaries PART 1/2",
             "location": "Xian Du",
             "period": "After returning to Xian Du after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "Talk to the girl in the southeast part of the main town. She's somewhat hidden in a corner on the way to the boat dock.",
-            "reward": "Londau Language Dictionary"
+            "info": "Talk to the girl in the southeast part of the main town. She's somewhat hidden in a corner on the way to the boat dock."
         },
         {
             "id": "62",
@@ -715,24 +702,21 @@
             "title": "Find the Villagers",
             "location": "Hamil",
             "period": "After returning to Xian Du after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "Talk to the villager inside the small house   west of the village elder's house. Then visit Aladhi Seahaven for a cutscene.",
-            "reward": "6200 gald, brown dog ears attachment)"
+            "info": "Talk to the villager inside the small house west of the village elder's house. Then visit Aladhi Seahaven for a cutscene."
         },
         {
             "id": "64",
             "title": "It Does a Body Good",
             "location": "Hamil",
             "period": "After returning to Xian Du after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "After completing the sidequest 'Search for the Villagers' talk to the man standing outside the small house in the eastern section of Hamil. Go talk to a young man in Nia Khera. He is in the southeast part of the map. Then return to the man in Hamil.",
-            "reward": "6200 gald, Earring Attachment"
+            "info": "After completing the sidequest 'Search for the Villagers' talk to the man standing outside the small house in the eastern section of Hamil. Go talk to a young man in Nia Khera. He is in the southeast part of the map. Then return to the man in Hamil."
         },
         {
             "id": "65",
             "title": "The Mystery of Dodurians",
             "location": "Leronde",
             "period": "After returning to Xian Du after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "After completing the sidequest 'It Does a Body Good'  go to Leronde and speak to Leia's father in the inn. Then return to the man in Hamil from the previous sidequest.",
-            "reward": " 6200 gald, mini silk hat attachment"
+            "info": "After completing the sidequest 'It Does a Body Good' go to Leronde and speak to Leia's father in the inn. Then return to the man in Hamil from the previous sidequest."
         },
         {
             "id": "18a",
@@ -774,24 +758,21 @@
             "title": "Year End Sell-off",
             "location": "Fennmont",
             "period": "Just after arriving in Fennmont from Barnauer Highroad.",
-            "info": "Talk to a girl in the 2nd floor of the building with all the shops. Bring her a Meadow Crystal, which can be found in search points in Barnauer Highroad",
-            "reward": "6800 gald, tiara attachment"
+            "info": "Talk to a girl in the 2nd floor of the building with all the shops. Bring her a Meadow Crystal, which can be found in search points in Barnauer Highroad"
         },
         {
             "id": "68",
             "title": "Doing Research for a Report",
             "location": "Fennmont",
             "period": "Just after arriving in Fennmont from Barnauer Highroad.",
-            "info": "Talk to a guy in the Talim Medical School - Student Services. He wants monster fluid.You may have this item already. If not, it can be stolen from the monsters in Arkland Quag",
-            "reward": "6800 gald, shiba dog tail attachment()"
+            "info": "Talk to a guy in the Talim Medical School - Student Services. He wants monster fluid.You may have this item already. If not, it can be stolen from the monsters in Arkland Quag"
         },
         {
             "id": "69",
             "title": "A Message to the Fortress",
             "location": "Fennmont",
             "period": "Just after arriving in Fennmont from Barnauer Highroad.",
-            "info": "Talk to a girl in the central plaza. She asks you to deliver a message to father, who is a guard at the west gate of Fort Gandala . You can get there through Barnauer Highroad.",
-            "reward": "6800 gald, halo attachment"
+            "info": "Talk to a girl in the central plaza. She asks you to deliver a message to father, who is a guard at the west gate of Fort Gandala . You can get there through Barnauer Highroad."
         },
         {
             "id": "23a",
@@ -831,8 +812,7 @@
             "missable": true,
             "location": "Fennmont",
             "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh.",
-            "info": "Go to Talim Medical School Outpatient Building examination room 5   5 focutscene. You are asked to find harmonica grass to heal the bird which can be found in seapoints in the Arkland Quag. Bring the harmonica grass back for a cutscene.",
-            "reward": "Soul Ring"
+            "info": "Go to Talim Medical School Outpatient Building examination room 5 5 focutscene. You are asked to find harmonica grass to heal the bird which can be found in seapoints in the Arkland Quag. Bring the harmonica grass back for a cutscene."
         },
         {
             "id": "72",
@@ -906,8 +886,7 @@
             "title": "Monsters in the Cave",
             "location": "Kanbalar",
             "period": "After reclaiming the castle in Kanbalar and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora. ",
-            "info": "Talk to the man in one of the rooms on the 2nd floor of the inn. He asks you to defeat a fire tiger in Nala Lava Tubes. You can get there through Xailen Woods. Report back for a reward.",
-            "reward": "blindfold attachment"
+            "info": "Talk to the man in one of the rooms on the 2nd floor of the inn. He asks you to defeat a fire tiger in Nala Lava Tubes. You can get there through Xailen Woods. Report back for a reward."
         }
     ]
 },
@@ -923,8 +902,7 @@
             "title": "Soldiers Who Use the Spyrix",
             "missable": true,
             "location": "Hamil",
-            "info": "Walk towards the back of the orchard in the west part of Hamil   until a cutscene occurs.",
-            "reward": "Spirit Stone Remnants"
+            "info": "Walk towards the back of the orchard in the west part of Hamil until a cutscene occurs."
         },
         {
             "id": "48a",
@@ -937,7 +915,7 @@
             "id": "18b",
             "parent": "18",
             "title": "The Secret Movements of the Shadows PART 3/4",
-            "location": "Fenmont",
+            "location": "Fennmont",
             "info": "Talk to the man in red in the center of the patient receptionist room in Talim Medical School."
         }
     ]
@@ -946,59 +924,56 @@
     "chapter": 53,
     "title": "Chapter 53",
     "location": "Trigleph",
-    "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress.",
+    "period": "Before leaving Trigleph (first visit) on your way to Helioborg Fortress.",
     "subevents":
     [
         {
             "id": "78",
             "title": "The Inventor King",
             "location": "Trigleph",
-            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress.",
-            "info": "Talk to the man in the hallway of the 2nd floor of the apartment building  2F. He asks you to bring him a navi-metal . You may already have some (it is dropped by human-looking monster in Nala Lava Tubes). If not, it is dropped by and stealable from certain enemies in Helioborg Fortress. It can also be found in search points within Tatalian Abyss   which you have access to after clearing Helioborg Fortress. You can reach Tatalian Abyss    through Rusalle Highroad. Bring the navi-metal   to him for a reward.",
-            "reward": "Krona Symbol"
+            "period": "Before leaving Trigleph (first visit) on your way to Helioborg Fortress.",
+            "info": "Talk to the man in the hallway of the 2nd floor of the apartment building 2F. He asks you to bring him a navi-metal . You may already have some (it is dropped by human-looking monster in Nala Lava Tubes). If not, it is dropped by and stealable from certain enemies in Helioborg Fortress. It can also be found in search points within Tatalian Abyss which you have access to after clearing Helioborg Fortress. You can reach Tatalian Abyss through Rusalle Highroad. Bring the navi-metal to him for a reward."
         },
         {
             "id": "79",
             "title": "A Bold New Recipe",
             "location": "Trigleph",
-            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress.",
-            "info": "Talk to the old man in the park in front of the apartment building. He asks you to buy cream croquette parfait. Buy one from the food shop (level 29+) and give it to him for a reward.",
-            "reward": "11400 gald, pipe attachment"
+            "period": "Before leaving Trigleph (first visit) on your way to Helioborg Fortress.",
+            "info": "Talk to the old man in the park in front of the apartment building. He asks you to buy cream croquette parfait. Buy one from the food shop (level 29+) and give it to him for a reward."
         },
         {
             "id": "80",
             "title": "The Spread of the Spyrix",
             "location": "Trigleph",
-            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress.",
+            "period": "Before leaving Trigleph (first visit) on your way to Helioborg Fortress.",
             "info": "Enter room 102 in the apartment building 102 for a cutscene."
         },
         {
             "id": "81",
             "title": "Rumors of Elympios PART 1/2",
             "location": "Trigleph",
-            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress.",
-            "info": "Approach the group of people in the room to the right when you enter the apartment building  1F for a cutscene."
+            "period": "Before leaving Trigleph (first visit) on your way to Helioborg Fortress.",
+            "info": "Approach the group of people in the room to the right when you enter the apartment building 1F for a cutscene."
         },
         {
             "id": "82",
             "title": "Hunt Down the Shadow Stalkers",
             "location": "Trigleph",
-            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress.",
-            "info": "Talk to the man near the entrance of the port area. He asks you to defeat Shadow Stalkers in the south section of Torbalan Highroad . They are in the southern part of the map by a tree. Report back for a reward.",
-            "reward": "11400 gald, mystery mask"
+            "period": "Before leaving Trigleph (first visit) on your way to Helioborg Fortress.",
+            "info": "Talk to the man near the entrance of the port area. He asks you to defeat Shadow Stalkers in the south section of Torbalan Highroad . They are in the southern part of the map by a tree. Report back for a reward."
         },
         {
             "id": "83",
             "title": "From the Position of Authority",
             "location": "Trigleph",
-            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress.",
+            "period": "Before leaving Trigleph (first visit) on your way to Helioborg Fortress.",
             "info": "Talk to the two men on the upper level in the northwest part of the port area for a scene."
         },
         {
             "id": "84",
             "title": "The Cycle of Elympios",
             "location": "Trigleph",
-            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress.",
+            "period": "Before leaving Trigleph (first visit) on your way to Helioborg Fortress.",
             "info": "After viewing the story cutscene when you try to leave the city (after you learn Helioborg Fortress has been attacked), approach the center of the shopping district for a cutscene."
         }
     ]
@@ -1023,30 +998,30 @@
     "chapter": 58,
     "title": "Chapter 58",
     "location": "Trigleph",
-    "period": "After being able to travel between Reize Maxia and Elympios",
+    "period": "After being able to travel between Rieze Maxia and Elympios",
     "subevents":
     [
         {
             "id": "81",
             "title": "Rumors of Elympios PART 2/2",
             "location": "Trigleph",
-            "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Return to the room off to the right of the entrance on the 1st floor of the apartment building  1F for another cutscene."
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Return to the room off to the right of the entrance on the 1st floor of the apartment building 1F for another cutscene."
         },
         {
               "id": "18c",
               "parent": "18",
               "title": "Those Who Act in Shadow PART 4/4",
               "location": "Nia Khera",
-              "period": "After being able to travel between Reize Maxia and Elympios",
-              "info": "Talk to the old man inside the meeting place  (the southernmost building on the map)."
+              "period": "After being able to travel between Rieze Maxia and Elympios",
+              "info": "Talk to the old man inside the meeting place (the southernmost building on the map)."
         },
         {
               "id": "29a",
               "parent": "29",
               "title": "The Shape of Our World PART 2/2",
               "location": "Sharilton",
-              "period": "After being able to travel between Reize Maxia and Elympios",
+              "period": "After being able to travel between Rieze Maxia and Elympios",
               "info": "Talk to the man looking at the windmill in the central plaza."
         },
         {
@@ -1054,15 +1029,15 @@
               "parent": "36",
               "title": "Sisterhood PART 3/3",
               "location": "Trigleph",
-              "period": "After being able to travel between Reize Maxia and Elympios",
-              "info": "Enter the 3rd floor of the apartment building  3F for a cutscene."
+              "period": "After being able to travel between Rieze Maxia and Elympios",
+              "info": "Enter the 3rd floor of the apartment building 3F for a cutscene."
         },
         {
             "id": "40a",
             "parent": "40",
             "title": "The Edge of the World PART 2/2",
             "location": "Lakutam Seahaven",
-            "period": "After being able to travel between Reize Maxia and Elympios",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
             "info": "Approach the edge near the water on the north side of town on the level below the entrance to the inn for another scene."
         },
         {
@@ -1070,7 +1045,7 @@
             "parent": "42",
             "title": "Memories of Leronde PART 3/3",
             "location": "Leronde",
-            "period": "After being able to travel between Reize Maxia and Elympios",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
             "info": "Inspect the food to your left when you enter the inn (on thecounter by the food shop) for a cutscene."
         },
         {
@@ -1078,9 +1053,8 @@
             "parent": "53",
             "title": "Mother and Child PART 2/2",
             "location": "Xian Du",
-            "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Visit Alvin's mother's house for a cutscene. Enter the southeast elevator and the elevator in the next area to get there. Afterwards go find Isura on the first bridge of Labari Hollow for another cutscene.",
-            "reward": "Gunbelt attachment"
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Visit Alvin's mother's house for a cutscene. Enter the southeast elevator and the elevator in the next area to get there. Afterwards go find Isura on the first bridge of Labari Hollow for another cutscene."
         },
         {
             "id": "60a",
@@ -1088,102 +1062,98 @@
             "title": "Jude's Substitute PART 2/2",
             "location": "Leronde",
             "period": "After being able to travel between Rieze Maxia and Elympios",
-            "info": "Approach the Mathis Clinic for a cutscene. Then go to the Felgana Mine mining area 4 (the area before the area where you fought the boss) and go to the bottom left part of the map for a cutscene.",
-            "reward": "Spirit Symbol"
+            "info": "Approach the Mathis Clinic for a cutscene. Then go to the Felgana Mine mining area 4 (the area before the area where you fought the boss) and go to the bottom left part of the map for a cutscene."
         },
         {
             "id": "71a",
             "parent": "71",
-            "title": "Leia's Failure?  PART 2/2",
+            "title": "Leia's Failure? PART 2/2",
             "location": "Fennmont",
-            "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Go to Talim Medical School Outpatient Building examination room 5   5 again for a cutscene."
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Go to Talim Medical School Outpatient Building examination room 5 5 again for a cutscene."
         },
         {
             "id": "86",
             "title": "The Origin of Spyrite",
             "location": "Helioborg Fortress",
-            "period": "After being able to travel between Reize Maxia and Elympios",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
             "info": "Enter the base from Torbalan Highroad and proceed into the first hallway and a cutscene should activate."
         },
         {
             "id": "87",
             "title": "The Devil Beast Attacks",
             "location": "Helioborg Fortress",
-            "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. From the laboratory on the 13th floor Fgo up to the roof14F (where you fought Volt), and after a cutscene you will fight the Fell Arms beast Melanbron."
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. From the laboratory on the 13th floor Fgo up to the roof14F (where you fought Volt), and after a cutscene you will fight the Devil's beast Melanbron."
         },
         {
             "id": "88",
             "title": "The Gathering Miasma",
             "location": "Tatalian Abyss",
             "period": "After being able to travel between Rieze Maxia and Elympios",
-            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. Proceed through the 1st floor of Tatalian Abyss for a scene. You have to destroy both seals to proceed in each floor. Just approach the wind seal (the floating crystal)  to destroy it which will activate the earth seal (the glowing ring). For the earth seal you must jump down onto it from a high place to destroy it. Proceed to the deepest part of the cave to fight the Fell Arms Beast Dransword."
+            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. Proceed through the 1st floor of Tatalian Abyss for a scene. You have to destroy both seals to proceed in each floor. Just approach the wind seal (the floating crystal) to destroy it which will activate the earth seal (the glowing ring). For the earth seal you must jump down onto it from a high place to destroy it. Proceed to the deepest part of the cave to fight the Devil's Beast Dransword."
         },
         {
             "id": "89",
             "title": "Gaius, the King",
             "location": "Kanbalar",
-            "period": "After being able to travel between Reize Maxia and Elympios",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
             "info": "You must have at least started the sidequest 'The History of Auj Oule'. Go to the gate just beforethe entrance to Gaius's castle in Kanbalar for a cutscene."
         },
         {
             "id": "91",
             "title": "What Lies in Memory",
             "location": "Labari Hollow",
-            "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "You must have completed the sidequests 'Reawakened Memories'  and 'Mother and Child'. Enter Labari Hollow for a cutscene. Then go to the central section of Mon Highlands and enter the Cave of Silence. 3/4 of the way down the passageway there should be a hole in the wall on the right that you can crawl through. Proceed through to the next area, Mon Highlands northern side for a cutscene.",
-            "reward": "princesshia flower (a material for leveling shops) "
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "You must have completed the sidequests 'Reawakened Memories' and 'Mother and Child'. Enter Labari Hollow for a cutscene. Then go to the central section of Mon Highlands and enter the Cave of Silence. 3/4 of the way down the passageway there should be a hole in the wall on the right that you can crawl through. Proceed through to the next area, Mon Highlands northern side for a cutscene."
         },
         {
             "id": "92",
             "title": "Take Over Fort Gandala",
             "location": "Sharilton",
-            "info": "Go to the lord's mansion in Sharilton   for a cutscene. Then go to Fort Gandala and proceed to control room #2 in the North section, 1st floor 1F 02. Go down the stairs and you will receive a Golem Inhibtor. Return the large passageway and you will fight the golems. Report back to Driselle for a reward.",
-            "reward": "Key item that teaches Rowen the skill 'Anti-Magic' "
+            "info": "Go to the lord's mansion in Sharilton for a cutscene. Then go to Fort Gandala and proceed to control room #2 in the North section, 1st floor 1F 02. Go down the stairs and you will receive a Golem Inhibtor. Return the large passageway and you will fight the golems. Report back to Driselle for a reward."
         },
         {
             "id": "93",
             "title": "Love-Fevered Visions",
             "location": "Fezebel Marsh",
-            "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Enter Fezebel Marsh from the Arkland Quag for a cutscene. Then approach a girl in the center of the shopping district of Trigleph   for another cutscene. Then go to the lord's mansion in Sharilton   for another cutscene."
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Enter Fezebel Marsh from the Arkland Quag for a cutscene. Then approach a girl in the center of the shopping district of Trigleph for another cutscene. Then go to the lord's mansion in Sharilton for another cutscene."
         },
         {
             "id": "94",
             "title": "The Aspyrixis",
             "location": "Leronde",
             "period": "After being able to travel between Rieze Maxia and Elympios",
-            "info": "After completing the sidequest 'Jude's Substitute'  visit the Mathis Clinic in Leronde for a cutscene. Go to the northern section of Old Vicalle Mine   and approach to the kid in the southwest part of the open area on the left side of the map for a cutscene."
+            "info": "After completing the sidequest 'Jude's Substitute' visit the Mathis Clinic in Leronde for a cutscene. Go to the northern section of Old Vicalle Mine and approach to the kid in the southwest part of the open area on the left side of the map for a cutscene."
         },
         {
             "id": "95",
             "title": "Homing Instinct",
             "location": "Xian Du",
-            "period": "After being able to travel between Reize Maxia and Elympios",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
             "info": "You should have completed the sidequest 'Where Did the Wyvern Go?'. If you don't before completing this one, you will no longer be able to complete it. Go to the wyvern cage in Xian Du for a cutscene. The cage is in the area through the northeast elevator."
         },
         {
             "id": "96",
             "title": "Sustaining Anxiety",
             "location": "Fennmont",
-            "period": "After being able to travel between Reize Maxia and Elympios",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
             "info": "Stay at the inn for a cutscene. Then stay at the inn once again for another cutscene."
         },
         {
             "id": "97",
             "title": "Muzet Attacks",
             "location": "Nia Khera",
-            "period": "After being able to travel between Reize Maxia and Elympios",
+            "period": "After being able to travel between Rieze Maxia and Elympios",
             "info": "Talk to a girl near the exit that leads to Kijara Seafalls for a cutscene."
         },
         {
             "id": "98",
             "title": "The Lost Transcendental Ring",
             "location": "Xailen Woods Temple",
-            "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Collect all 23 Mysterious Orbs. Bring them to the altar at the Xailen Woods Temple and you will fight a boss. Be careful, these enemies are level 68. For more information on the location of all the orbs look at the end of this guide.",
-            "reward": "Key item that teaches Jude the arte '', a title"
+            "period": "After being able to travel between Rieze Maxia and Elympios",
+            "info": "Collect all 23 Mysterious Orbs. Bring them to the altar at the Xailen Woods Temple and you will fight a boss. Be careful, these enemies are level 68. For more information on the location of all the orbs look at the end of this guide."
         }
     ]
 }]
