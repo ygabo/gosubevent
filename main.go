@@ -15,7 +15,7 @@ var (
 )
 
 type Subevent struct {
-	Id       int    `json:"id"`
+	Id       string `json:"id"`
 	Title    string `json:"title"`
 	Missable bool   `json:"missable"`
 	Location string `json:"location"`
@@ -86,6 +86,10 @@ func main() {
 	m.Get("/subevent", func() string {
 		kk, _ := json.Marshal(eventsByChapter)
 		return string(kk)
+	})
+	m.Get("/reload", func(r render.Render) {
+		updateCache()
+		r.HTML(200, "index", nil)
 	})
 	m.Run()
 }

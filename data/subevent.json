@@ -1,154 +1,154 @@
 [{
     "chapter": 1,
-    "title": "Chapter 1 出会い",
-    "location": "Fennmont イル・ファン",
-    "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ラフォート研究所",
+    "title": "Chapter 1 ",
+    "location": "Fennmont ",
+    "period": "Jude only. The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ",
     "subevents":
     [
         {
             "id": "1",
-            "title": "The Cycle of Rieze Maxia リーゼ・マクシアの循環",
+            "title": "The Cycle of Rieze Maxia ",
             "missable": true,
-            "location": "Fennmont イル・ファン",
-            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ラフォート研究所",
-            "info": "In the Talim Medical School Student Affairs Reception area タリム医 学校　学生課窓口 approach the man sitting in the sitting area next to the entrance for a cutscene."
+            "location": "Fennmont ",
+            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ",
+            "info": "In the Talim Medical School Student Affairs Reception area   approach the man sitting in the sitting area next to the entrance for a cutscene."
         },
         {
             "id": "2",
-            "title": "Gossip about Jude ジュードの噂",
+            "title": "Gossip about Jude ",
             "missable": true,
-            "location": "Fennmont イル・ファン",
-            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ラフォート研究所",
-            "info": "In the Talim Medical School Student Affairs Office passageway タリム医学校 学生課 通路 (where you started the game) approach two students talking for a cutscene."
+            "location": "Fennmont ",
+            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ",
+            "info": "In the Talim Medical School Student Affairs Office passageway    (where you started the game) approach two students talking for a cutscene."
         },
         {
             "id": "3",
-            "title": "Spirit Artes Failure 精霊術失敗",
+            "title": "Spirit Artes Failure ",
             "missable": true,
-            "location": "Fennmont イル・ファン",
-            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ラフォート研究所",
-            "info": "In the Academic Research District 学術研究地区 (just before Lafort Research Lab ラフォート研究所) approach the two men near one of the lampposts. One of men is sitting on the ground. "
+            "location": "Fennmont ",
+            "period": "The beginning of the game. After Jude's medical examination at school and before going to the Lafort Research Lab ",
+            "info": "In the Academic Research District  (just before Lafort Research Lab) approach the two men near one of the lampposts. One of men is sitting on the ground. "
         }
     ]
 },
 {
     "chapter": 6,
-    "title": "Chapter 6 揺れる思い",
-    "location": "Aladhi Seahaven イラート海停",
-    "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven イラート海停 for the second time. This should be after exterminating a monster in the Ilart Highway イラート間道 and sleeping at the inn.",
+    "title": "Chapter 6 ",
+    "location": "Aladhi Seahaven ",
+    "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven  for the second time. This should be after exterminating a monster in the Ilart Highway  and sleeping at the inn.",
     "subevents":
     [
       {
         "id": "4",
-        "title": "The Monster Lies 魔物退治の誤算",
+        "title": "The Monster Lies ",
         "missable": false,
-        "location": "Aladhi Seahaven イラート海停",
-        "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven イラート海停 for the second time. This should be after exterminating a monster in the Ilart Highway イラート間道 and sleeping at the inn.",
-        "info": "In the Talim Medical School Student Affairs Reception area タリム医 学校　学生課窓口 approach the man sitting in the sitting area next to the entrance for a cutscene.",
-        "reward": "1200 gald, belt dagger attachment ベルト付きダガー"
+        "location": "Aladhi Seahaven ",
+        "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven  for the second time. This should be after exterminating a monster in the Ilart Highway  and sleeping at the inn.",
+        "info": "In the Talim Medical School Student Affairs Reception area   approach the man sitting in the sitting area next to the entrance for a cutscene.",
+        "reward": "1200 gald, belt dagger attachment "
       },
       {
         "id": "5",
-        "title": "Fruit Seller フルーツ商人 PART 1/2",
+        "title": "Fruit Seller  PART 1/2",
         "missable": false,
-        "location": "Aladhi Seahaven イラート海停",
-        "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven イラート海停 for the second time. This should be after exterminating a monster in the Ilart Highway イラート間道 and sleeping at the inn.",
-        "info": "Talk to a man standing outside the inn. He'll ask you to find him a fruit called a 'porange' パレンジ"
+        "location": "Aladhi Seahaven ",
+        "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven  for the second time. This should be after exterminating a monster in the Ilart Highway  and sleeping at the inn.",
+        "info": "Talk to a man standing outside the inn. He'll ask you to find him a fruit called a 'porange'."
       },
       {
         "id": "6",
-        "title": "The Legendary Flavor 秘伝の味",
+        "title": "The Legendary Flavor ",
         "missable": false,
-        "location": "Aladhi Seahaven イラート海停",
-        "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven イラート海停 for the second time. This should be after exterminating a monster in the Ilart Highway イラート間道 and sleeping at the inn.",
-        "info": "Talk to a man standing in the central area near the stairs. He'll ask you to buy him soda rice サイダー飯 from the food shop (in the inn). Size of the food doesn't matter. ",
-        "reward": "1200 gald, thick eyebrows attachment ふと眉毛"
+        "location": "Aladhi Seahaven ",
+        "period": "When Alvin rejoins your party just before you are about to leave Aladhi Seahaven  for the second time. This should be after exterminating a monster in the Ilart Highway  and sleeping at the inn.",
+        "info": "Talk to a man standing in the central area near the stairs. He'll ask you to buy him soda rice  from the food shop (in the inn). Size of the food doesn't matter. ",
+        "reward": "1200 gald, thick eyebrows attachment "
       }
     ]
 },
 {
     "chapter": 9,
-    "title": "Chapter 9 精霊の里",
-    "location": "Nia Khera ニ・アケリア",
-    "period": "Right after arriving in Nia Khera ニ・アケリア for the first time.",
+    "title": "Chapter 9 ",
+    "location": "Nia Khera ",
+    "period": "Right after arriving in Nia Khera  for the first time.",
     "subevents":
     [
         {
             "id": "7",
-            "title" : "The Myth of Maxwell マクスウェルの伝承",
+            "title" : "The Myth of Maxwell ",
             "missable": true,
-            "location": "Nia Khera ニ・アケリア",
-            "info": "Talk to the old man near the exit that leads to Kijara Seafalls キジル海瀑 for a cutscene."
+            "location": "Nia Khera ",
+            "info": "Talk to the old man near the exit that leads to Kijara Seafalls  for a cutscene."
         },
         {
 
             "id": "8",
-            "title" : "Incoming Monster 参道の魔物",
-            "location": "Nia Khera ニ・アケリア",
-            "info": "Talk to the old person standing in front of the exit to Nia Khera Spiritway ニ・アケリア参道. Defeat the monster in the Northeast section of Nia Khera Spiritway ニ・アケリア参道 北東部. Report back for your reward",
-            "reward": "1800 gald, elf ears attachment エルフ耳"
+            "title" : "Incoming Monster ",
+            "location": "Nia Khera ",
+            "info": "Talk to the old person standing in front of the exit to Nia Khera Spiritway . Defeat the monster in the Northeast section of Nia Khera Spiritway  . Report back for your reward",
+            "reward": "1800 gald, elf ears attachment "
         },
         {
             "id": "9",
-            "title" : "Offerings for Milla ミラへのお供え",
-            "location": "Nia Khera ニ・アケリア",
-            "info": "Talk to the girl standing next to one of the mini shrine pedestals in the northern part of the village. She'll ask you to retrieve insect husk 抜け殻 for her. This can be found at random in a search point (the sparkles and bags you find lying around fields) anywhere in Nia Khera Shrine Road ニ・アケリア参道. Bring it back to her when you find it.",
-            "reward": "1800 gald, hair antenna attachment アホ毛"
+            "title" : "Offerings for Milla ",
+            "location": "Nia Khera ",
+            "info": "Talk to the girl standing next to one of the mini shrine pedestals in the northern part of the village. She'll ask you to retrieve insect husk  for her. This can be found at random in a search point (the sparkles and bags you find lying around fields) anywhere in Nia Khera Shrine Road . Bring it back to her when you find it.",
+            "reward": "1800 gald, hair antenna attachment "
 
         },
         {
             "id": "10",
-            "title" : "Something Tasty おいしいもの",
-            "location": "Nia Khera ニ・アケリア",
-            "info": "Talk to the boy near the exit that leads to Kijara Seafalls キジル海瀑 and he'll ask you to bring him a fruit called a 'napple' ナップル which can be found by searching the cabinets of one of the houses in Hamil ハ・ミル 民家. The house is west of the village elder's house, but it's still within the eastern half of the village. You can do this now or wait until you get the ability to warp, which you'll get quite soon.",
-            "reward": "nasal mucus attachment はなじる"
+            "title" : "Something Tasty ",
+            "location": "Nia Khera ",
+            "info": "Talk to the boy near the exit that leads to Kijara Seafalls  and he'll ask you to bring him a fruit called a 'napple'  which can be found by searching the cabinets of one of the houses in Hamil  . The house is west of the village elder's house, but it's still within the eastern half of the village. You can do this now or wait until you get the ability to warp, which you'll get quite soon.",
+            "reward": "nasal mucus attachment "
         }
     ]
 },
 {
     "chapter": 10,
-    "title": "Chapter 10 使命",
-    "location": "Nia Khera ニ・アケリア",
+    "title": "Chapter 10 ",
+    "location": "Nia Khera ",
     "period": "After acquiring the world map and getting the ability to warp.",
     "subevents":
     [
         {
             "id": "11",
-            "title": "Ivar the Shaman 巫子イバル",
+            "title": "Ivar the Shaman ",
             "missable": true,
-            "location": "Nia Khera ニ・アケリア",
+            "location": "Nia Khera ",
             "period": "After acquiring the world map and getting the ability to warp.",
-            "info": "Talk to Ivar near the exit that leads to Xagut Floodmeadow ソグド湿道"
+            "info": "Talk to Ivar near the exit that leads to Xagut Floodmeadow "
         }
     ]
 },
 {
     "chapter": 11,
-    "title": "Chapter 11 少女とぬいぐるみ",
-    "location": "Hamil ハ・ミル",
-    "period": "Just after leaving Hamil on your way back to Aladhi Seahaven イラート海停after Elize joins your party as a guest.",
+    "title": "Chapter 11 ",
+    "location": "Hamil ",
+    "period": "Just after leaving Hamil on your way back to Aladhi Seahaven after Elize joins your party as a guest.",
     "subevents":
     [
         {
             "id": "12",
-            "title": "The people of Hamil ハ・ミルの人々",
+            "title": "The people of Hamil ",
             "missable": true,
-            "location": "Hamil ハ・ミル",
+            "location": "Hamil ",
             "period": "After acquiring the world map and getting the ability to warp.",
-            "info": "Reenter Hamil ハ・ミル for a scene."
+            "info": "Reenter Hamil  for a scene."
         },
         {
             "id": "5a",
             "parent" : "5",
-            "title": "Fruit Merchant フルーツ商人 PART 2/2",
-            "location": "Hamil ハ・ミル",
+            "title": "Fruit Merchant  PART 2/2",
+            "location": "Hamil ",
             "period": "After acquiring the world map and getting the ability to warp.",
-            "info": "Go into the basement of the small storage shed in the western part of Hamil ハ・ミル 物置小屋 地下室 and search the desk for a 'porange' パレンジ. Give it to the fruit merchant back in Aladhi Seahaven イラート海停 for a reward."
+            "info": "Go into the basement of the small storage shed in the western part of Hamil and search the desk for a 'porange'. Give it to the fruit merchant back in Aladhi Seahaven  for a reward."
         },
         {
             "id": "13",
-            "title": "Rappig, Rappig ああ、ブウサギ",
-            "location": "Nia Khera ニ・アケリア",
+            "title": "Rappig, Rappig ",
+            "location": "Nia Khera ",
             "period": "After acquiring the world map and getting the ability to warp.",
             "info": "Approach the two rappigs (rabbit/pigs) in the center of the village for a scene."
         }
@@ -156,1035 +156,1034 @@
 },
 {
     "chapter": 13,
-    "title": "Chapter 13 追われる身",
-    "location": "Sapstrath Seahaven サマンガン海停",
-    "period": "After arriving in Sapstrath Seahaven サマンガン海停",
+    "title": "Chapter 13 ",
+    "location": "Sapstrath Seahaven ",
+    "period": "After arriving in Sapstrath Seahaven ",
     "subevents":
     [
         {
             "id": "14",
-            "title": "Delivery to the Inn 宿屋への届け物 PART 1/2",
-            "location": "Sapstrath Seahaven サマンガン海停",
-            "period": "After arriving in Sapstrath Seahaven サマンガン海停",
-            "info": "",
+            "title": "Delivery to the Inn  PART 1/2",
+            "location": "Sapstrath Seahaven ",
+            "period": "After arriving in Sapstrath Seahaven ",
+            "info": "Talk to a girl in the inn to deliver the goods."
         },
         {
             "id": "15",
-            "title": "The Message 手配書 PART 1/2",
+            "title": "The Message  PART 1/2",
             "missable": true,
-            "location": "Sapstrath Seahaven サマンガン海停",
-            "period": "After arriving in Sapstrath Seahaven サマンガン海停",
-            "info": "Approach the bulletin board in the center of town for a cutscene.",
+            "location": "Sapstrath Seahaven ",
+            "period": "After arriving in Sapstrath Seahaven ",
+            "info": "Approach the bulletin board in the center of town for a cutscene."
         },
         {
             "id": "16",
-            "title": "Anticipated Reunion ティポの家族!?  PART 1/2",
+            "title": "Anticipated Reunion !?  PART 1/2",
             "missable": true,
-            "location": "Sapstrath Seahaven サマンガン海停",
-            "period": "After arriving in Sapstrath Seahaven サマンガン海停",
-            "info": "Approach the group of sailors in the southern part of town for a cutscene.",
+            "location": "Sapstrath Seahaven ",
+            "period": "After arriving in Sapstrath Seahaven ",
+            "info": "Approach the group of sailors in the southern part of town for a cutscene."
         },
         {
             "id": "17",
-            "title": "The Femme Fatale 陰のある女",
-            "location": "Sapstrath Seahaven サマンガン海停",
-            "period": "After arriving in Sapstrath Seahaven サマンガン海停",
-            "info": "Talk to the girl standing to the left of the inn. She'll ask you to bring her a poison stinger 毒針 which can be found at random in a search point in Sapstrath Highroad サマンガン樹海. Bring the poison stinger 毒針 back to her for a reward."
+            "title": "The Femme Fatale ",
+            "location": "Sapstrath Seahaven ",
+            "period": "After arriving in Sapstrath Seahaven ",
+            "info": "Talk to the girl standing to the left of the inn. She'll ask you to bring her a poison stinger  which can be found at random in a search point in Sapstrath Highroad . Bring the poison stinger  back to her for a reward."
         },
         {
             "id": "18",
-            "title": "Those Who Act in Shadow 暗躍する影たち PART 1/4",
-            "location": "Sapstrath Seahaven サマンガン海停",
-            "period": "After arriving in Sapstrath Seahaven サマンガン海停",
-            "info": "Stay in the inn for a cutscene.",
+            "title": "Those Who Act in Shadow  PART 1/4",
+            "location": "Sapstrath Seahaven ",
+            "period": "After arriving in Sapstrath Seahaven ",
+            "info": "Stay in the inn for a cutscene."
         },
         {
             "id": "19",
-            "title": "The Amazing Bounty Hunter スゴウデの賞金稼ぎ",
-            "location": "Sapstrath Seahaven サマンガン海停",
-            "period": "After arriving in Sapstrath Seahaven サマンガン海停",
-            "info": "Talk to the armored man standing near the exit out of town. He'll ask you to exterminate a monster in the northern section of Sapstrath Deepwood サマンガン樹海 北部. Report back when done for a reward."
+            "title": "The Amazing Bounty Hunter ",
+            "location": "Sapstrath Seahaven ",
+            "period": "After arriving in Sapstrath Seahaven ",
+            "info": "Talk to the armored man standing near the exit out of town. He'll ask you to exterminate a monster in the northern section of Sapstrath Deepwood  . Report back when done for a reward."
         },
         {
             "id": "20",
-            "title": "The Devil's Beasts 魔装獣",
-            "location": "Sapstrath Seahaven サマンガン海停",
-            "period": "After arriving in Sapstrath Seahaven サマンガン海停",
+            "title": "The Devil's Beasts ",
+            "location": "Sapstrath Seahaven ",
+            "period": "After arriving in Sapstrath Seahaven ",
             "info": "Attempt to leave Sapstrath Seahaven and the storyteller will tell you about the Devil's Beasts. This quest is also related to the secret dungeon. See the Devil's Beasts Sidequest section at the bottom of this guide for more information."
         }
     ]
 },
 {
     "chapter": 15,
-    "title": "Chapter 15 新たな街での新たな出会い",
-    "location": "Sharilton カラハ・シャール",
+    "title": "Chapter 15 ",
+    "location": "Sharilton ",
     "period": "After first arriving in Sharilton.",
     "subevents":
     [
         {
             "id": "14a",
             "parent": "14",
-            "title": "Special Delivery to the Inn 宿屋への届け物 PART 2/2",
-            "location": "Sharilton カラハ・シャール",
+            "title": "Special Delivery to the Inn  PART 2/2",
+            "location": "Sharilton ",
             "period": "After first arriving in Sharilton.",
             "info": "Talk to a girl in the inn to deliver the goods."
         },
         {
             "id": "16a",
             "parent": "16",
-            "title": "Anticipated Reunion ティポの家族!?  PART 2/2",
+            "title": "Anticipated Reunion !?  PART 2/2",
             "missable": true,
-            "location": "Sharilton カラハ・シャール",
+            "location": "Sharilton ",
             "period": "After first arriving in Sharilton.",
-            "info": "Talk to a girl near the item shop. After the scene return to Aladhi Seahaven イラート海停 and approach the group surrounding the peddler near the shops for another cutscene."
+            "info": "Talk to a girl near the item shop. After the scene return to Aladhi Seahaven  and approach the group surrounding the peddler near the shops for another cutscene."
         },
         {
             "id": "21",
-            "title": "Jet Black Feathers 漆黒の羽",
-            "location": "Sharilton カラハ・シャール",
+            "title": "Jet Black Feathers ",
+            "location": "Sharilton ",
             "period": "After first arriving in Sharilton.",
-            "info": "Talk to a guy on the eastern side of town, across the road from the item shop. He'll ask you to bring him 459 jet black feathers 漆黒の羽. You should have found some already. They can be found in search points and treasure chests all over the world. Throughout the game periodically drop by and deposit more feathers. You can't hold more than 99 at a time I think. You just have to deposit a TOTAL of 459 feathers to officially complete the sidequest. You'll get various rewards depending on how many feathers you've deposited. When you have in your inventory enough feathers to reach 459 total deposited, another man will be waiting in place of the usual merchant. Go to Kurama Side Road クラマ間道 near the bottom right part of the map. After a fight there will be a scene and you will hand over the remaining feathers to complete the sidequest."
+            "info": "Talk to a guy on the eastern side of town, across the road from the item shop. He'll ask you to bring him 459 jet black feathers . You should have found some already. They can be found in search points and treasure chests all over the world. Throughout the game periodically drop by and deposit more feathers. You can't hold more than 99 at a time I think. You just have to deposit a TOTAL of 459 feathers to officially complete the sidequest. You'll get various rewards depending on how many feathers you've deposited. When you have in your inventory enough feathers to reach 459 total deposited, another man will be waiting in place of the usual merchant. Go to Kurama Side Road  near the bottom right part of the map. After a fight there will be a scene and you will hand over the remaining feathers to complete the sidequest."
         },
         {
             "id": "22",
-            "title": "The Sad Salesman ゆううつな商人",
-            "location": "Sharilton カラハ・シャール",
+            "title": "The Sad Salesman ",
+            "location": "Sharilton ",
             "period": "After first arriving in Sharilton.",
-            "info": "Talk to a guy on the eastern side of town, across the road from the item shop. He'll ask you to bring him 459 jet black feathers 漆黒の羽. You should have found some already. They can be found in search points and treasure chests all over the world. Throughout the game periodically drop by and deposit more feathers. You can't hold more than 99 at a time I think. You just have to deposit a TOTAL of 459 feathers to officially complete the sidequest. You'll get various rewards depending on how many feathers you've deposited. When you have in your inventory enough feathers to reach 459 total deposited, another man will be waiting in place of the usual merchant. Go to Kurama Side Road クラマ間道 near the bottom right part of the map. After a fight there will be a scene and you will hand over the remaining feathers to complete the sidequest."
+            "info": "Talk to a guy on the eastern side of town, across the road from the item shop. He'll ask you to bring him 459 jet black feathers . You should have found some already. They can be found in search points and treasure chests all over the world. Throughout the game periodically drop by and deposit more feathers. You can't hold more than 99 at a time I think. You just have to deposit a TOTAL of 459 feathers to officially complete the sidequest. You'll get various rewards depending on how many feathers you've deposited. When you have in your inventory enough feathers to reach 459 total deposited, another man will be waiting in place of the usual merchant. Go to Kurama Side Road  near the bottom right part of the map. After a fight there will be a scene and you will hand over the remaining feathers to complete the sidequest."
         },
         {
             "id": "23",
-            "title": "The Runaways 逃亡者たち PART 1/2",
+            "title": "The Runaways  PART 1/2",
             "missable": true,
-            "location": "Sharilton カラハ・シャール",
+            "location": "Sharilton ",
             "period": "After first arriving in Sharilton.",
-            "info": "Talk to the boy standing near the shops in the central plaza 中央広場"
+            "info": "Talk to the boy standing near the shops in the central plaza "
         },
         {
             "id": "24",
-            "title": "The Clouds of Battle Begin to Stir わき立つ戦雲",
+            "title": "The Clouds of Battle Begin to Stir ",
             "missable": true,
-            "location": "Sharilton カラハ・シャール",
+            "location": "Sharilton ",
             "period": "After first arriving in Sharilton.",
-            "info": "Talk to the merchants standing in the western side of the central plaza 中央広場."
+            "info": "Talk to the merchants standing in the western side of the central plaza ."
         },
         {
             "id": "25",
-            "title": "Travel Protection 旅のお守り",
-            "location": "Sharilton カラハ・シャール",
+            "title": "Travel Protection ",
+            "location": "Sharilton ",
             "period": "After visiting Cline and Driselle in the Lord's residence.",
-            "info": "Talk to a girl standing in the area just outside the lord's mansion 領主邸前. Bring her good luck charm to her father, a sailor in Aladhi Seahaven イラート海停."
+            "info": "Talk to a girl standing in the area just outside the lord's mansion . Bring her good luck charm to her father, a sailor in Aladhi Seahaven ."
         },
         {
             "id": "26",
-            "title": "Pretty and Pink ピンクかわいいもの",
-            "location": "Sharilton カラハ・シャール",
+            "title": "Pretty and Pink ",
+            "location": "Sharilton ",
             "period": "After visiting Cline and Driselle in the Lord's residence.",
-            "info": "Talk to the two girls dressed in pink standing in the area just outside the lord's mansion 領主邸前. Elize will have to bring them cute, pink items to prove her love of the color pink. Only then will the girls show her their secret treasure. The items can be found in search points in the following locations. The final item cannot be accessed until near the end of the game.",
-            "required": [ "-Cherry Tree Petal 桃桜の花びら = Bermia Gorge バーミア峡谷", "-Pink-Colored Fang 桃色象の牙 = Royal Hunting Grounds 王の狩り場中", "-Pink Emerald ピンクエメラルド = Tatalian Abyss  タタール冥穴" ]
+            "info": "Talk to the two girls dressed in pink standing in the area just outside the lord's mansion . Elize will have to bring them cute, pink items to prove her love of the color pink. Only then will the girls show her their secret treasure. The items can be found in search points in the following locations. The final item cannot be accessed until near the end of the game.",
+            "required": [ "-Cherry Tree Petal  = Bermia Gorge ", "-Pink-Colored Fang  = Royal Hunting Grounds ", "-Pink Emerald  = Tatalian Abyss  " ]
         }
     ]
 },
 {
     "chapter": 17,
-    "title": "Chapter 17 うずまく陰謀",
-    "location": "Sharilton カラハ・シャール",
-    "period": "Just after clearing Bermia Gorge バーミア峡谷and returning to Sharilton カラハ・シャール, but before telling Cline you want to rest.",
+    "title": "Chapter 17 ",
+    "location": "Sharilton ",
+    "period": "Just after clearing Bermia Gorge and returning to Sharilton , but before telling Cline you want to rest.",
     "subevents":
     [
         {
             "id": "27",
-            "title": "Mystery of the Gorge 峡谷の謎",
+            "title": "Mystery of the Gorge ",
             "missable": true,
-            "location": "Bermia Gorge バーミア峡谷",
-            "period": "Just after clearing Bermia Gorge バーミア峡谷and returning to Sharilton カラハ・シャール, but before telling Cline you want to rest.",
-            "info": "Return to the cave 大空洞 where you fought the boss for a cutscene."
+            "location": "Bermia Gorge ",
+            "period": "Just after clearing Bermia Gorge and returning to Sharilton , but before telling Cline you want to rest.",
+            "info": "Return to the cave  where you fought the boss for a cutscene."
         },
         {
             "id": "28",
-            "title": " A Life in Shackles 監禁生活",
-            "location": "Sharilton カラハ・シャール",
-            "period": "Just after clearing Bermia Gorge バーミア峡谷and returning to Sharilton カラハ・シャール, but before telling Cline you want to rest.",
-            "info": "Return to the basement of the storage shed 物置小屋 地下室 in the western section of Hamil ハ・ミル. Elize will talk about being held captive in a cutscene."
+            "title": " A Life in Shackles ",
+            "location": "Sharilton ",
+            "period": "Just after clearing Bermia Gorge and returning to Sharilton , but before telling Cline you want to rest.",
+            "info": "Return to the basement of the storage shed   in the western section of Hamil . Elize will talk about being held captive in a cutscene."
         },
         {
             "id": "29",
-            "title": "The Shape of Our World 世界の形 PART 1/2",
+            "title": "The Shape of Our World  PART 1/2",
             "missable": true,
-            "location": "Sharilton カラハ・シャール",
-            "period": "Just after clearing Bermia Gorge バーミア峡谷and returning to Sharilton カラハ・シャール, but before telling Cline you want to rest.",
-            "info": "Talk to the man looking at the windmill in the central plaza 中央広場. Then go to the summit of Bermia Gorge バーミア峡谷頂上 to the area where you jumped into the cave below (but don't jump). There should be a cutscene. Afterwards return to the man in Sharilton カラハ・シャール."
+            "location": "Sharilton ",
+            "period": "Just after clearing Bermia Gorge and returning to Sharilton , but before telling Cline you want to rest.",
+            "info": "Talk to the man looking at the windmill in the central plaza . Then go to the summit of Bermia Gorge  to the area where you jumped into the cave below (but don't jump). There should be a cutscene. Afterwards return to the man in Sharilton ."
         }
     ]
 },
 {
     "chapter": 18,
-    "title": "Chapter 18 要塞潜入",
-    "location": "Talys Highroad タラス街道",
-    "period": "Just after leaving Sharilton カラハ・シャール on your way to save Milla and Elize in Fort Gandala ガンダラ要塞",
+    "title": "Chapter 18 ",
+    "location": "Talys Highroad ",
+    "period": "Just after leaving Sharilton  on your way to save Milla and Elize in Fort Gandala ",
     "subevents":
     [
         {
             "id": "30",
-            "title": "Military Secrets 軍の内情",
+            "title": "Military Secrets ",
             "missable": true,
-            "location": "Sharilton カラハ・シャール",
-            "period": "Just after leaving Sharilton カラハ・シャール on your way to save Milla and Elize in Fort Gandala ガンダラ要塞",
-            "info": "Talk to a guy and a girl standing in the central plaza 中央広場"
+            "location": "Sharilton ",
+            "period": "Just after leaving Sharilton  on your way to save Milla and Elize in Fort Gandala ",
+            "info": "Talk to a guy and a girl standing in the central plaza "
         }
     ]
 },
 {
     "chapter": 20,
-    "title": "Chapter 20 二人きりの道",
-    "location": "Sapstrath Highroad サマンガン街道",
-    "period": "After leaving Sharilton カラハ・シャール with injured Milla on your way to Sapstrath Seahaven サマンガン海停",
+    "title": "Chapter 20 ",
+    "location": "Sapstrath Highroad ",
+    "period": "After leaving Sharilton  with injured Milla on your way to Sapstrath Seahaven ",
     "subevents":
     [
         {
             "id": "31",
-            "title": "Teepo: Back in Action ティポ復調",
+            "title": "Teepo: Back in Action ",
             "missable": true,
-            "location": "Sharilton カラハ・シャール",
-            "period": "After leaving Sharilton カラハ・シャール with injured Milla on your way to Sapstrath Seahaven サマンガン海停",
-            "info": "Talk to Elize in the Lord's mansion 領主邸 for a cutscene."
+            "location": "Sharilton ",
+            "period": "After leaving Sharilton  with injured Milla on your way to Sapstrath Seahaven ",
+            "info": "Talk to Elize in the Lord's mansion  for a cutscene."
         },
         {
             "id": "32",
-            "title": "Cline and Driselle クレインとドロッセル",
+            "title": "Cline and Driselle ",
             "missable": true,
-            "location": "Sharilton カラハ・シャール",
-            "period": "After leaving Sharilton カラハ・シャール with injured Milla on your way to Sapstrath Seahaven サマンガン海停",
-            "info": "Talk to Driselle in her room on the 2nd floor of the lord's mansion 領主邸. "
+            "location": "Sharilton ",
+            "period": "After leaving Sharilton  with injured Milla on your way to Sapstrath Seahaven ",
+            "info": "Talk to Driselle in her room on the 2nd floor of the lord's mansion . "
         }
     ]
 },
 {
     "chapter": 21,
-    "title": "Chapter 21 再会と試練",
-    "location": "Leronde ル・ロンド",
-    "period": "Just after leaving Leronde ル・ロンド when Leia joins your party on your way to Felghana Mine フェルガナ鉱山",
+    "title": "Chapter 21 ",
+    "location": "Leronde ",
+    "period": "Just after leaving Leronde  when Leia joins your party on your way to Felghana Mine ",
     "subevents":
     [
         {
             "id": "33",
-            "title": "Heavy Metal Collector 鉱物コレクター",
-            "location": "Leronde ル・ロンド",
-            "period": "Just after leaving Leronde ル・ロンド when Leia joins your party on your way to Felghana Mine フェルガナ鉱山",
-            "info": "Talk to the man inside the Leronde inn in room 202 ル・ロンド 宿屋 202号室. He asks you to him a Block of Quartz 石英の塊 from Felghana Mine フェルガナ鉱山. The Block of Quartz 石英の塊can be found from the mining points (the rocks you break with the pickaxe). You can wait to give him the Block of Quartz 石英の塊 until after you finish the story events at Felghana Mine フェルガナ鉱山 and return to Leronde ル・ロンド if you want."
+            "title": "Heavy Metal Collector ",
+            "location": "Leronde ",
+            "period": "Just after leaving Leronde  when Leia joins your party on your way to Felghana Mine ",
+            "info": "Talk to the man inside the Leronde inn in room 202   202. He asks you to him a Block of Quartz  from Felghana Mine . The Block of Quartz can be found from the mining points (the rocks you break with the pickaxe). You can wait to give him the Block of Quartz  until after you finish the story events at Felghana Mine  and return to Leronde  if you want."
         }
     ]
 },
 {
     "chapter": 23,
-    "title": "Chapter 23 己の行動、その責任",
-    "location": "Leronde ル・ロンド",
-    "period": "Just before you leave Leronde ル・ロンド after Milla recovers.",
+    "title": "Chapter 23 ",
+    "location": "Leronde ",
+    "period": "Just before you leave Leronde  after Milla recovers.",
     "subevents":
     [
         {
             "id": "34",
-            "title": "Milla  and Books ミラと本",
+            "title": "Milla  and Books ",
             "missable": true,
-            "location": "Leronde ル・ロンド",
-            "period": "Just before you leave Leronde ル・ロンド after Milla recovers.",
-            "info": "Enter the reference room inside Jude's parents' clinic マティス治療院 for a cutscene."
+            "location": "Leronde ",
+            "period": "Just before you leave Leronde  after Milla recovers.",
+            "info": "Enter the reference room inside Jude's parents' clinic  for a cutscene."
         },
         {
             "id": "35",
-            "title": "Leia's Disappearance 消えたレイア",
+            "title": "Leia's Disappearance ",
             "missable": true,
-            "location": "Leronde ル・ロンド",
-            "period": "Just before you leave Leronde ル・ロンド after Milla recovers.",
+            "location": "Leronde ",
+            "period": "Just before you leave Leronde  after Milla recovers.",
             "info": "Talk to Leia's mother, Sonia, inside the inn. Leia's parents own the inn."
         }
     ]
 },
 {
     "chapter": 25,
-    "title": "Chapter 25 レイア加入",
-    "location": "Lakutam Seahaven ラコルム海停",
-    "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
+    "title": "Chapter 25 ",
+    "location": "Lakutam Seahaven ",
+    "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
     "subevents":
     [
         {
             "id": "15a",
             "parent": "15",
-            "title": "The Message 手配書 PART 2/2",
+            "title": "The Message  PART 2/2",
             "missable": true,
-            "location": "Lakutam Seahaven ラコルム海停",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "info": "Enter the reference room inside Jude's parents' clinic マティス治療院 for a cutscene."
+            "location": "Lakutam Seahaven ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
+            "info": "Enter the reference room inside Jude's parents' clinic  for a cutscene."
         },
         {
             "id": "36",
-            "title": "Sisterhood 姉と妹と PART 1/3",
+            "title": "Sisterhood  PART 1/3",
             "missable": true,
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "location": "Lakutam Seahaven ラコルム海停 ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
+            "location": "Lakutam Seahaven  ",
             "info": "Talk to the two sisters on the south side of town for a cutscene."
         },
         {
             "id": "37",
-            "title": "Topknot Master 至高のマゲ師 PART 1/2",
-            "location": "Lakutam Seahaven ラコルム海停",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
+            "title": "Topknot Master  PART 1/2",
+            "location": "Lakutam Seahaven ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
             "info": "Talk to the old man in the north side of town. He asks you to bring him a supreme samurai topknot which can be obtained later in the game."
         },
         {
             "id": "38",
-            "title": "Milla's Pendant ミラのペンダント PART 1/2",
+            "title": "Milla's Pendant  PART 1/2",
             "missable": true,
-            "location": "Lakutam Seahaven ラコルム海停",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
+            "location": "Lakutam Seahaven ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
             "info": "Approach the edge near the water on the lower section of town for a cutscene."
         },
         {
             "id": "39",
-            "title": "Buried Treasure 掘り出し物発見!?",
-            "location": "Lakutam Seahaven ラコルム海停",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "info": "Talk to the man near the shops. Then deliver his package to the antique shop in the eastern side of Sharilton カラハ・シャール. This is the shop where you first met Driselle.",
-            "reward": "5000 gald, circlet attachment 緊箍児"
+            "title": "Buried Treasure !?",
+            "location": "Lakutam Seahaven ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
+            "info": "Talk to the man near the shops. Then deliver his package to the antique shop in the eastern side of Sharilton . This is the shop where you first met Driselle.",
+            "reward": "5000 gald, circlet attachment "
         },
         {
             "id": "40",
-            "title": "The Edge of the World 世界の果て PART 1/2",
+            "title": "The Edge of the World  PART 1/2",
             "missable": true,
-            "location": "Lakutam Seahaven ラコルム海停",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
+            "location": "Lakutam Seahaven ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
             "info": "Approach the edge near the water on the north side of town on the level below the entrance to the inn for a cutscene."
         },
         {
             "id": "41",
-            "title": "The Elder's Plea 老人の願い",
-            "location": "Leronde ル・ロンド",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "info": "Talk to the old man on the main road 中央通り. He asks you to pour sake in a nook at the back of the monster nest in Felghana Mine フェルガナ 鉱山 第4鉱区奥 魔物の巣 for one of his fellow miners that died. It's the area where you fought the boss.",
-            "reward": "cordierite (a material for leveling shops) 菫青石"
+            "title": "The Elder's Plea ",
+            "location": "Leronde ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
+            "info": "Talk to the old man on the main road . He asks you to pour sake in a nook at the back of the monster nest in Felghana Mine   4  for one of his fellow miners that died. It's the area where you fought the boss.",
+            "reward": "cordierite (a material for leveling shops) "
         },
         {
             "id": "42",
-            "title": "Memories of Leronde ル・ロンドの思い出 PART 1/3",
-            "location": "Leronde ル・ロンド",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
+            "title": "Memories of Leronde  PART 1/3",
+            "location": "Leronde ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
             "info": "Enter the inn for a scene.",
-            "reward": "Piyonan accessory ピヨノ"
+            "reward": "Piyonan accessory "
         },
         {
             "id": "43",
-            "title": "Beat the Bandits 窃盗団を倒せ",
-            "location": "Leronde ル・ロンド",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "info": "Talk to Leia's father in the inn. He asks you to fight thieves that have escaped into the abandoned Old Vicalle Mine バイカール廃坑. You haven't been to this area yet. To get to it, exit Leronde ル・ロンド into Boltea Forest Road ボルテア森道. Head east into the next area. On the raised part of the land there's a small hole you can crawl into to enter the Old Vicalle Mine バイカール廃坑. The enemies in here are tough, I wouldn't recommend fighting them at this point. The thieves are in the open area in the western part of the first map. Report back for a reward.",
-            "reward": "Goblin Mask Attachment 天狗の面"
+            "title": "Beat the Bandits ",
+            "location": "Leronde ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
+            "info": "Talk to Leia's father in the inn. He asks you to fight thieves that have escaped into the abandoned Old Vicalle Mine . You haven't been to this area yet. To get to it, exit Leronde  into Boltea Forest Road . Head east into the next area. On the raised part of the land there's a small hole you can crawl into to enter the Old Vicalle Mine . The enemies in here are tough, I wouldn't recommend fighting them at this point. The thieves are in the open area in the western part of the first map. Report back for a reward.",
+            "reward": "Goblin Mask Attachment "
         },
         {
             "id": "44",
-            "title": "Alvin and Derrick アルヴィンとディラック",
+            "title": "Alvin and Derrick ",
             "missable": true,
-            "location": "Leronde ル・ロンド",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "info": "Enter the Mathis Clinic マティス治療院 for a cutscene."
+            "location": "Leronde ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
+            "info": "Enter the Mathis Clinic  for a cutscene."
         },
         {
             "id": "45",
-            "title": "Orange Soup オレンジスープ",
-            "location": "Sharilton カラハ・シャール",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "info": "Talk to the maid standing in the central plaza 中央広場 near the path that leads to the lord's mansion. Buy orange soup オレンジスープ from the food shop (any size) and give it to her."
+            "title": "Orange Soup ",
+            "location": "Sharilton ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
+            "info": "Talk to the maid standing in the central plaza  near the path that leads to the lord's mansion. Buy orange soup  from the food shop (any size) and give it to her."
         },
         {
             "id": "46",
-            "title": "Rowen's Honor ローエンの栄光",
-            "location": "Sharilton カラハ・シャール",
-            "period": "After arriving in Lakutam Seahaven ラコルム海停 when you finally have all 6 party members and you are about to depart to Lakutam Highroad ラコルム街道.",
-            "info": "In the area outside the lord's mansion領主邸前, Approach the gate to the left of the lord's mansion (if you are facing the mansion from the circular area) for a cutscene. It's the building where the sniper who attacked Cline hid."
+            "title": "Rowen's Honor ",
+            "location": "Sharilton ",
+            "period": "After arriving in Lakutam Seahaven  when you finally have all 6 party members and you are about to depart to Lakutam Highroad .",
+            "info": "In the area outside the lord's mansion, Approach the gate to the left of the lord's mansion (if you are facing the mansion from the circular area) for a cutscene. It's the building where the sniper who attacked Cline hid."
         }
     ]
 },
 {
     "chapter": 27,
-    "title": "Chapter 27 断崖の街",
-    "location": "Xian Du シャン・ドゥ",
+    "title": "Chapter 27 ",
+    "location": "Xian Du ",
     "period": "Just after arriving in Xian Du for the first time.",
     "subevents":
     [
         {
             "id": "47",
-            "title": "The History of Auj Oule ア・ジュール、その歴史 PART 1/4",
+            "title": "The History of Auj Oule  PART 1/4",
             "missable": true,
             "period": "Just after arriving in Xian Du for the first time.",
-            "location": "Xian Du シャン・ドゥ",
+            "location": "Xian Du ",
             "info": "Talk to the girl, Karla, standing in front of the stone statue (the one just north of the shop elevator, past the bridge and cave entrance) in the center of town for a cutscene."
         },
         {
             "id": "48",
-            "title": "The Cause Shifting Spirit Climes 霊勢変化の原因 PART 1/2",
+            "title": "The Cause Shifting Spirit Climes  PART 1/2",
             "missable": true,
             "period": "Just after arriving in Xian Du for the first time.",
-            "location": "Xian Du シャン・ドゥ",
+            "location": "Xian Du ",
             "info": "Enter the elevator to the north of the elevator that leads to the shops and the cave entrance. Talk to the girl once inside for a cutscene. Available after Alvin rejoins the party."
         },
         {
             "id": "49",
-            "title": "The Wandering Youth 放浪青年",
+            "title": "The Wandering Youth ",
             "period": "Just after arriving in Xian Du for the first time.",
-            "location": "Xian Du シャン・ドゥ",
-            "info": "Talk to the girl in the southeast area of the main town. She's near the boat dock that leads to Xagut Floodmeadow ソグド湿道. She asks you to find her brother. Take the boat at this dock and you can find the brother in the northern section of Xagut Floodmeadow ソグド湿道 北部.",
-            "reward": "fruit of a large tree (a material for leveling shops) 大樹の実り"
+            "location": "Xian Du ",
+            "info": "Talk to the girl in the southeast area of the main town. She's near the boat dock that leads to Xagut Floodmeadow . She asks you to find her brother. Take the boat at this dock and you can find the brother in the northern section of Xagut Floodmeadow  .",
+            "reward": "fruit of a large tree (a material for leveling shops) "
         },
         {
             "id": "50",
-            "title": "Spirit Clime Trouble 霊勢異常",
+            "title": "Spirit Clime Trouble ",
             "period": "Just after arriving in Xian Du for the first time.",
-            "location": "Lakutam Seahaven ラコルム海停",
-            "info": "Talk to the girl inside the inn. She asks you to defeat a monster in the central section of Lakutam Highroad ラコルム街道 中央部. The monster should be near the pond in the southwest part of the map. Report back for a reward.",
-            "reward": "5400 gald, accomplice mask attachment 相棒マスク"
+            "location": "Lakutam Seahaven ",
+            "info": "Talk to the girl inside the inn. She asks you to defeat a monster in the central section of Lakutam Highroad  . The monster should be near the pond in the southwest part of the map. Report back for a reward.",
+            "reward": "5400 gald, accomplice mask attachment "
         }
     ]
 },
 {
     "chapter": 28,
-    "title": "Chapter 28 エリーゼの秘密",
-    "location": "Royal Hunting Grounds 王の狩り場",
-    "period": "On your way to save Elize and Teepo from Labari Hollow リーベリー岩孔",
+    "title": "Chapter 28 ",
+    "location": "Royal Hunting Grounds ",
+    "period": "On your way to save Elize and Teepo from Labari Hollow ",
     "subevents":
     [
         {
             "id": "51",
-            "title": "Punish the Poachers 密猟者討伐",
-            "location": "Xian Du シャン・ドゥ",
-            "period": "On your way to save Elize and Teepo from Labari Hollow リーベリー岩孔",
-            "info": "Talk to the girl near the exit to the Royal Hunting Grounds 王の狩り場. She asks you to put a stop to the poachers in the northern section of the Royal Hunting Grounds 王の狩り場 北部. They're on a platform in the center of the area. Report back for a reward.",
-            "reward": "5600 gald, horns attachment 角"
+            "title": "Punish the Poachers ",
+            "location": "Xian Du ",
+            "period": "On your way to save Elize and Teepo from Labari Hollow ",
+            "info": "Talk to the girl near the exit to the Royal Hunting Grounds . She asks you to put a stop to the poachers in the northern section of the Royal Hunting Grounds  . They're on a platform in the center of the area. Report back for a reward.",
+            "reward": "5600 gald, horns attachment "
         }
     ]
 },
 {
     "chapter": 29,
-    "title": "Chapter 29 責任の行方",
-    "location": "Xian Du シャン・ドゥ",
-    "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔",
+    "title": "Chapter 29 ",
+    "location": "Xian Du ",
+    "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow ",
     "subevents":
     [
         {
             "id": "37a",
             "parent": "37",
-            "title": "The Topknot Master 至高のマゲ師 PART 2/2",
-            "location": "Lakutam Seahaven ラコルム海停",
-            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔.",
-            "info": "The feudal lord topknot 殿様ちょんまげ can be found in an Aifread treasure (the diamond shaped treasures found in fields, usually in trees or sticking out of rocks) in the western section of the Royal Hunting Grounds 王の狩場 南西部. Give this to the old man for a reward.",
-            "reward": "pigtails attachment ツインテール"
+            "title": "The Topknot Master  PART 2/2",
+            "location": "Lakutam Seahaven ",
+            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow .",
+            "info": "The feudal lord topknot  can be found in an Aifread treasure (the diamond shaped treasures found in fields, usually in trees or sticking out of rocks) in the western section of the Royal Hunting Grounds  . Give this to the old man for a reward.",
+            "reward": "pigtails attachment "
         },
         {
             "id": "52",
-            "title": "Infiltrating the Research Center 研究所潜入",
+            "title": "Infiltrating the Research Center ",
             "missable": true,
-            "location": "Labari Hollow リーベリー岩孔",
-            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔.",
-            "info": "Return to Labari Hollow リーベリー岩孔 and proceed to the very bottom layer, beyond where you found Elize and Alvin before, for a cutscene."
+            "location": "Labari Hollow ",
+            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow .",
+            "info": "Return to Labari Hollow  and proceed to the very bottom layer, beyond where you found Elize and Alvin before, for a cutscene."
 
         },
         {
             "id": "53",
-            "title": "Mother and Child 母と子 PART 1/2",
+            "title": "Mother and Child  PART 1/2",
             "missable": true,
-            "location": "Xian Du シャン・ドゥ",
-            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔.",
-            "info": "Go in the southeast elevator in Xian Du シャン・ドゥ. Enter the elevator in the next area for a cutscene. This is Alvin's mother's house. Afterwards reenter the house and talk to Alvin's mother for another scene."
+            "location": "Xian Du ",
+            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow .",
+            "info": "Go in the southeast elevator in Xian Du . Enter the elevator in the next area for a cutscene. This is Alvin's mother's house. Afterwards reenter the house and talk to Alvin's mother for another scene."
         },
         {
             "id": "54",
-            "title": "The Aftermath 後遺症",
+            "title": "The Aftermath ",
             "missable": true,
-            "location": "Xian Du シャン・ドゥ",
-            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔.",
-            "info": "Enter the inn for a cutscene. Jude needs a heart herb ハートハーブ to reduce Milla's pain. heart herb can be found in search points within Mohn Plateau モン高原, your next destination. Return to the inn and spend the night for a cutscene."
+            "location": "Xian Du ",
+            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow .",
+            "info": "Enter the inn for a cutscene. Jude needs a heart herb  to reduce Milla's pain. heart herb can be found in search points within Mohn Plateau , your next destination. Return to the inn and spend the night for a cutscene."
         },
         {
             "id": "55",
-            "title": "Potent Potions of the Kitarl Clan キタル族の秘薬",
-            "location": "Xian Du シャン・ドゥ",
-            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔.",
-            "info": "Talk to the man in front of the receptionist inside the arena 闘技場. He wants a Mysterious Bead 不思議なピード. This can be found in a treasure chest in the southeast area of Mon Highlands モン高原 南東部 (inside one of the caves through one of the small holes in the cliff wall).  Give him the Mysterious Bead 不思議なピード for a reward.",
-            "reward": "Item Ball Plus アイテムボールプラ"
+            "title": "Potent Potions of the Kitarl Clan ",
+            "location": "Xian Du ",
+            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow .",
+            "info": "Talk to the man in front of the receptionist inside the arena . He wants a Mysterious Bead . This can be found in a treasure chest in the southeast area of Mon Highlands   (inside one of the caves through one of the small holes in the cliff wall).  Give him the Mysterious Bead  for a reward.",
+            "reward": "Item Ball Plus "
         },
         {
             "id": "56",
-            "title": "And the Winner Is... 決勝の結末",
+            "title": "And the Winner Is... ",
             "missable": true,
-            "location": "Xian Du シャン・ドゥ",
-            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔.",
-            "info": "Go up the stairs behind the receptionist in the arena 闘技場 and talk to the man there."
+            "location": "Xian Du ",
+            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow .",
+            "info": "Go up the stairs behind the receptionist in the arena  and talk to the man there."
         },
         {
             "id": "47a",
             "parent": "47",
-            "title": " The History of Auj Oule ア・ジュール、その歴史 PART 2/4",
+            "title": " The History of Auj Oule  PART 2/4",
             "missable": true,
-            "location": "Xian Du シャン・ドゥ",
-            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔.",
+            "location": "Xian Du ",
+            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow .",
             "info": "Talk to Karla in the inn for a cutscene."
         },
         {
             "id": "38a",
             "parent": "38",
-            "title": "Milla's Pendant ミラのペンダント PART 2/2",
+            "title": "Milla's Pendant  PART 2/2",
             "missable": true,
-            "location": "Nia Khera ニ・アケリア",
-            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow リーベリー岩孔.",
-            "info": "Return to Nia Khera ニ・アケリア and approach the rappigs in the center field for a cutscene."
+            "location": "Nia Khera ",
+            "period": "After returning to Xian Du after you reunite with Elize and Alvin in Labari Hollow .",
+            "info": "Return to Nia Khera  and approach the rappigs in the center field for a cutscene."
         }
     ]
 },
 {
     "chapter": 30,
-    "title": "Chapter 30 ア・ジュール王",
-    "location": "Kanbalar カン・バルク",
-    "period": "After the cutscene in the residential district 居住区 with Elize and Jiao. Before you go to the castle to see King Gaius.",
+    "title": "Chapter 30 ",
+    "location": "Kanbalar ",
+    "period": "After the cutscene in the residential district  with Elize and Jiao. Before you go to the castle to see King Gaius.",
     "subevents":
     [
         {
             "id": "57",
-            "title": "Real Talk 楽しいおしゃべり",
-            "location": "Kanbalar カン・バルク",
-            "period": "After the cutscene in the residential district 居住区 with Elize and Jiao. Before you go to the castle to see King Gaius.",
+            "title": "Real Talk ",
+            "location": "Kanbalar ",
+            "period": "After the cutscene in the residential district  with Elize and Jiao. Before you go to the castle to see King Gaius.",
             "info": "Stay at the inn for a cutscene."
         },
         {
 
             "id": "58",
-            "title": "Runaway Rappig 逃げ出したブウサギ",
-            "location": "Kanbalar カン・バルク",
-            "period": "After the cutscene in the residential district 居住区 with Elize and Jiao. Before you go to the castle to see King Gaius.",
-            "info": "Talk to the girl in the plaza of the residential district 居住区. Her rappig has escaped. You can find it in the central section of Mohn Plateau Mon Highlands モン高原 中央部 hiding behind a rock. Report back for a reward.",
-            "reward": "6000 gald, white rabbit ears attachmentうさみみ（白）"
+            "title": "Runaway Rappig ",
+            "location": "Kanbalar ",
+            "period": "After the cutscene in the residential district  with Elize and Jiao. Before you go to the castle to see King Gaius.",
+            "info": "Talk to the girl in the plaza of the residential district . Her rappig has escaped. You can find it in the central section of Mohn Plateau Mon Highlands   hiding behind a rock. Report back for a reward.",
+            "reward": "6000 gald, white rabbit ears attachment"
         },
         {
             "id": "59",
-            "title": "Survival of the Fittest 生存競争",
-            "location": "Kanbalar カン・バルク",
-            "period": "After the cutscene in the residential district 居住区 with Elize and Jiao. Before you go to the castle to see King Gaius.",
-            "info": "Talk to the soldier near the exit to Mon Highlands モン高原. He asks you to defeat a monster in the central section of Mon Highlands モン高原 中央部. Report back for a reward.",
-            "reward": "6000 gald, earmuffs attachment イヤーマフ"
+            "title": "Survival of the Fittest ",
+            "location": "Kanbalar ",
+            "period": "After the cutscene in the residential district  with Elize and Jiao. Before you go to the castle to see King Gaius.",
+            "info": "Talk to the soldier near the exit to Mon Highlands . He asks you to defeat a monster in the central section of Mon Highlands  . Report back for a reward.",
+            "reward": "6000 gald, earmuffs attachment "
         }
     ]
 },
 {
     "chapter": 31,
-    "title": "Chapter 31 空翔るワイバーン",
-    "location": "Xian Du シャン・ドゥ",
-    "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+    "title": "Chapter 31 ",
+    "location": "Xian Du ",
+    "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
     "subevents":
     [
         {
 
             "id": "42a",
             "parent": "42",
-            "title": "Memories of Leronde ル・ロンドの思い出 PART 2/3",
-            "location": "Leronde ル・ロンド",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "title": "Memories of Leronde  PART 2/3",
+            "location": "Leronde ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
             "info": "Inspect the food to your left when you enter the inn (in the sitting area next to the food shop) for a cutscene."
         },
         {
             "id": "60",
-            "title": "Jude's Substitute ジュードの代診 PART 1/3",
+            "title": "Jude's Substitute  PART 1/3",
             "missable": true,
-            "location": "Leronde ル・ロンド",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "Visit the Mathis Clinic マティス治療院 for a cutscene."
+            "location": "Leronde ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "info": "Visit the Mathis Clinic  for a cutscene."
         },
         {
             "id": "61",
-            "title": "Poetry and Dictionaries 詩集と辞書 PART 1/2",
-            "location": "Xian Du シャン・ドゥ",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "title": "Poetry and Dictionaries  PART 1/2",
+            "location": "Xian Du ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
             "info": "Talk to the girl in the southeast part of the main town. She's somewhat hidden in a corner on the way to the boat dock.",
-            "reward": "Londau Language Dictionary ロンダウ語辞書"
+            "reward": "Londau Language Dictionary "
         },
         {
             "id": "62",
-            "title": "Reawakened Memories 甦る記憶",
-            "location": "Hamil ハ・ミル",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "Visit Hamil ハ・ミル for a cutscene, then go the large bridge in Xian Du シャン・ドゥ for another cutscene."
+            "title": "Reawakened Memories ",
+            "location": "Hamil ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "info": "Visit Hamil  for a cutscene, then go the large bridge in Xian Du  for another cutscene."
         },
         {
             "id": "63",
-            "title": "Find the Villagers 村人を探せ",
-            "location": "Hamil ハ・ミル",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "Talk to the villager inside the small house ハ・ミル 民家 west of the village elder's house. Then visit Aladhi Seahaven イラート海停 for a cutscene.",
-            "reward": "6200 gald, brown dog ears attachment いぬみみ（柴)"
+            "title": "Find the Villagers ",
+            "location": "Hamil ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "info": "Talk to the villager inside the small house   west of the village elder's house. Then visit Aladhi Seahaven  for a cutscene.",
+            "reward": "6200 gald, brown dog ears attachment)"
         },
         {
             "id": "64",
-            "title": "It Does a Body Good ミルクを求めて",
-            "location": "Hamil ハ・ミル",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "After completing the sidequest 'Search for the Villagers' 村人を探せtalk to the man standing outside the small house in the eastern section of Hamil ハ・ミル. Go talk to a young man in Nia Khera ニ・アケリア. He is in the southeast part of the map. Then return to the man in Hamil ハ・ミル.",
-            "reward": "6200 gald, Earring Attachment イヤリング"
+            "title": "It Does a Body Good ",
+            "location": "Hamil ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "info": "After completing the sidequest 'Search for the Villagers' talk to the man standing outside the small house in the eastern section of Hamil . Go talk to a young man in Nia Khera . He is in the southeast part of the map. Then return to the man in Hamil .",
+            "reward": "6200 gald, Earring Attachment "
         },
         {
             "id": "65",
-            "title": "The Mystery of Dodurians ドードリアの謎",
-            "location": "Leronde ル・ロンド",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "After completing the sidequest 'It Does a Body Good' ミルクを求めて go to Leronde ル・ロンド and speak to Leia's father in the inn. Then return to the man in Hamil ハ・ミル from the previous sidequest.",
-            "reward": " 6200 gald, mini silk hat attachment ミニシルクハット"
+            "title": "The Mystery of Dodurians ",
+            "location": "Leronde ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "info": "After completing the sidequest 'It Does a Body Good'  go to Leronde  and speak to Leia's father in the inn. Then return to the man in Hamil  from the previous sidequest.",
+            "reward": " 6200 gald, mini silk hat attachment "
         },
         {
             "id": "18a",
             "parent": "18",
-            "title": "Those Who Act in Shadow 暗躍する影たち PART 2/4",
+            "title": "Those Who Act in Shadow  PART 2/4",
             "missable": true,
-            "location": "Xian Du シャン・ドゥ",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "location": "Xian Du ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
             "info": "Approach the inn for a cutscene."
         },
         {
             "id": "47b",
             "parent": "47",
-            "title": "The History of Auj Oule ア・ジュール、その歴史 PART 3/4",
+            "title": "The History of Auj Oule  PART 3/4",
             "missable": true,
-            "location": "Xian Du シャン・ドゥ",
-            "period": "After returning to Xian Du シャン・ドゥ after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
-            "info": "This has two parts, talk to Karla in the inn for a cutscene, THEN go to the arena 闘技場and talk to Karla again."
+            "location": "Xian Du ",
+            "period": "After returning to Xian Du  after your escape from Kanbalar, but before talking to Yurgen and riding the wyvern.",
+            "info": "This has two parts, talk to Karla in the inn for a cutscene, THEN go to the arena and talk to Karla again."
         }
     ]
 },
 {
     "chapter": 34,
-    "title": "Chapter 34 クルスニクの槍を求めて",
-    "location": "Fennmont イル・ファン",
-    "period": "Just after arriving in Fennmont イル・ファン from Barnauer Highroad バルナウル街道.",
+    "title": "Chapter 34 ",
+    "location": "Fennmont ",
+    "period": "Just after arriving in Fennmont  from Barnauer Highroad .",
     "subevents":
     [
 
         {
             "id": "66",
-            "title": "Professor Haus' Research ハウス教授の研究",
-            "location": "Fennmont イル・ファン",
-            "period": "Just after arriving in Fennmont イル・ファン from Barnauer Highroad バルナウル街道.",
+            "title": "Professor Haus' Research ",
+            "location": "Fennmont ",
+            "period": "Just after arriving in Fennmont  from Barnauer Highroad .",
             "info": "Halfway down the Talim Medical School Student Affairs Office passageway, a cutscene will activate."
         },
         {
             "id": "67",
-            "title": "Year End Sell-off 期末商戦",
-            "location": "Fennmont イル・ファン",
-            "period": "Just after arriving in Fennmont イル・ファン from Barnauer Highroad バルナウル街道.",
-            "info": "Talk to a girl in the 2nd floor of the building with all the shops サンサーラ商館. Bring her a Meadow Crystal メドウクリスタル, which can be found in search points in Barnauer Highroad バルナウル街道",
-            "reward": "6800 gald, tiara attachment ティアラ"
+            "title": "Year End Sell-off ",
+            "location": "Fennmont ",
+            "period": "Just after arriving in Fennmont  from Barnauer Highroad .",
+            "info": "Talk to a girl in the 2nd floor of the building with all the shops . Bring her a Meadow Crystal , which can be found in search points in Barnauer Highroad ",
+            "reward": "6800 gald, tiara attachment "
         },
         {
             "id": "68",
-            "title": "Doing Research for a Report レポートの素材",
-            "location": "Fennmont イル・ファン",
-            "period": "Just after arriving in Fennmont イル・ファン from Barnauer Highroad バルナウル街道.",
-            "info": "Talk to a guy in the Talim Medical School - Student Services. He wants monster fluid.You may have this item already. If not, it can be stolen from the monsters in Arkland Quag アルカンド湿原",
-            "reward": "6800 gald, shiba dog tail attachmentいぬしっぽ(柴)"
+            "title": "Doing Research for a Report ",
+            "location": "Fennmont ",
+            "period": "Just after arriving in Fennmont  from Barnauer Highroad .",
+            "info": "Talk to a guy in the Talim Medical School - Student Services. He wants monster fluid.You may have this item already. If not, it can be stolen from the monsters in Arkland Quag ",
+            "reward": "6800 gald, shiba dog tail attachment()"
         },
         {
             "id": "69",
-            "title": "A Message to the Fortress 要塞への伝言",
-            "location": "Fennmont イル・ファン",
-            "period": "Just after arriving in Fennmont イル・ファン from Barnauer Highroad バルナウル街道.",
-            "info": "Talk to a girl in the central plaza 中央広場. She asks you to
-            deliver a message to father, who is a guard at the west gate of Fort Gandala ガンダラ要塞 西口. You can get there through Barnauer Highroad バルナウル街道.",
-            "reward": "6800 gald, halo attachment 天使の輪"
+            "title": "A Message to the Fortress ",
+            "location": "Fennmont ",
+            "period": "Just after arriving in Fennmont  from Barnauer Highroad .",
+            "info": "Talk to a girl in the central plaza . She asks you to deliver a message to father, who is a guard at the west gate of Fort Gandala  . You can get there through Barnauer Highroad .",
+            "reward": "6800 gald, halo attachment "
         },
         {
             "id": "23a",
             "parent": "23",
-            "title": "The Runaways 逃亡者たち PART 2/2",
+            "title": "The Runaways  PART 2/2",
             "missable": true,
-            "location": "Fennmont イル・ファン",
-            "period": "Just after arriving in Fennmont イル・ファン from Barnauer Highroad バルナウル街道.",
-            "info": "Talk to a girl standing in the central plaza 中央広場"
+            "location": "Fennmont ",
+            "period": "Just after arriving in Fennmont  from Barnauer Highroad .",
+            "info": "Talk to a girl standing in the central plaza "
         },
         {
             "id": "61",
-            "title": "Poetry and Dictionaries 詩集と辞書 PART 2/2",
-            "location": "Sharilton カラハシャール",
-            "period": "Just after arriving in Fennmont イル・ファン from Barnauer Highroad バルナウル街道.",
-            "info": "Enter one of the rooms on the 2nd floor of the lord's mansion 領主邸 for a cutscene."
+            "title": "Poetry and Dictionaries  PART 2/2",
+            "location": "Sharilton ",
+            "period": "Just after arriving in Fennmont  from Barnauer Highroad .",
+            "info": "Enter one of the rooms on the 2nd floor of the lord's mansion  for a cutscene."
         }
     ]
 },
 {
     "chapter": 36,
-    "title": "Chapter 36 誤算",
-    "location": "Arkland Quag アルカンド湿原",
-    "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh ファイザバード沼野.",
+    "title": "Chapter 36 ",
+    "location": "Arkland Quag ",
+    "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh .",
     "subevents":
     [
         {
             "id": "70",
-            "title": "Orda Palace Library オルダ宮の図書室",
-            "location": "Fennmont イル・ファン",
-            "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh ファイザバード沼野.",
-            "info": "Approach one of the bookshelves in Orda Palace 3rd floor archive room 1 オルダ宮3F第1書庫 for a cutscene."
+            "title": "Orda Palace Library ",
+            "location": "Fennmont ",
+            "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh .",
+            "info": "Approach one of the bookshelves in Orda Palace 3rd floor archive room 1 3F1 for a cutscene."
         },
         {
             "id": "71",
-            "title": "Leia's Failure レイアの失敗？ PART 1/2",
+            "title": "Leia's Failure  PART 1/2",
             "missable": true,
-            "location": "Fennmont イル・ファン",
-            "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh ファイザバード沼野.",
-            "info": "Go to Talim Medical School Outpatient Building examination room 5 タリム医学校 外来棟 第5診察室 focutscene. You are asked to find harmonica grass ハモニカ草 to heal the bird which can be found in seapoints in the Arkland Quag アルカンド湿原. Bring the harmonica grass ハモニカ草 back for a cutscene.",
-            "reward": "Soul Ring ソウルリング"
+            "location": "Fennmont ",
+            "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh .",
+            "info": "Go to Talim Medical School Outpatient Building examination room 5   5 focutscene. You are asked to find harmonica grass  to heal the bird which can be found in seapoints in the Arkland Quag . Bring the harmonica grass  back for a cutscene.",
+            "reward": "Soul Ring "
         },
         {
             "id": "72",
-            "title": "Wither the Wyvern ワイバーンはどこに？",
-            "location": "Barnauer Highroad バルナウル街道",
-            "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh ファイザバード沼野.",
-            "info": "Return to the southeast section of Barnauer Highroad バルナウル街道南東部 where the wyvern dropped you when you left Sharilton カラハ・シャール for a cutscene."
+            "title": "Wither the Wyvern ",
+            "location": "Barnauer Highroad ",
+            "period": "After King Nachtigal dies and you are on your way to Fezebel Marsh .",
+            "info": "Return to the southeast section of Barnauer Highroad  where the wyvern dropped you when you left Sharilton  for a cutscene."
         }
     ]
 },
 {
     "chapter": 38,
-    "title": "Chapter 38 告白",
-    "location": "Xailen Woods Temple ザイラの森の教会",
-    "period": "After reuniting with your other party members in Xailen Woods Temple ザイラの森の教会 and just after the cut scene where you talk to Gaius inside the church.",
+    "title": "Chapter 38 ",
+    "location": "Xailen Woods Temple ",
+    "period": "After reuniting with your other party members in Xailen Woods Temple  and just after the cut scene where you talk to Gaius inside the church.",
     "subevents":
     [
         {
             "id": "73",
-            "title": "Jiao's Demise ジャオの死",
+            "title": "Jiao's Demise ",
             "missable": true,
-            "location": "Xailen Woods Temple ザイラの森の教会",
-            "period": "After reuniting with your other party members in Xailen Woods Temple ザイラの森の教会 and just after the cut scene where you talk to Gaius inside the church.",
+            "location": "Xailen Woods Temple ",
+            "period": "After reuniting with your other party members in Xailen Woods Temple  and just after the cut scene where you talk to Gaius inside the church.",
             "info": "Talk to Preza and Agria in front of the church."
         },
         {
             "id": "74",
-            "title": "The Two Generals 軍師二人",
+            "title": "The Two Generals ",
             "missable": true,
-            "location": "Xailen Woods Temple ザイラの森の教会",
-            "period": "After reuniting with your other party members in Xailen Woods Temple ザイラの森の教会 and just after the cut scene where you talk to Gaius inside the church.",
+            "location": "Xailen Woods Temple ",
+            "period": "After reuniting with your other party members in Xailen Woods Temple  and just after the cut scene where you talk to Gaius inside the church.",
             "info": "Talk to Wingal in front of the church for a cutscene."
         }
     ]
 },
 {
     "chapter": 41,
-    "title": "Chapter 41 運命の一戦を前に",
-    "location": "Kanbalar カン・バルク",
-    "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
+    "title": "Chapter 41 ",
+    "location": "Kanbalar ",
+    "period": "After reclaiming the castle in Kanbalar  and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora . ",
     "subevents":
     [
         {
             "id": "36a",
             "parent": "36",
-            "title": "Sisterhood 姉と妹と PART 2/3",
+            "title": "Sisterhood  PART 2/3",
             "missable": true,
-            "location": "Kanbalar カン・バルク",
-            "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
+            "location": "Kanbalar ",
+            "period": "After reclaiming the castle in Kanbalar  and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora . ",
             "info": "After reuniting with your party members a cutscene should take place if you walk away from the throne room inside the castle."
         },
         {
             "id": "47c",
             "parent": "47",
-            "title": "The History of Auj Oule ア・ジュール、その歴史 PART 4/4",
+            "title": "The History of Auj Oule  PART 4/4",
             "missable": true,
-            "location": "Kanbalar カン・バルク",
-            "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
+            "location": "Kanbalar ",
+            "period": "After reclaiming the castle in Kanbalar  and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora . ",
             "info": "Talk to Karla in the inn for a cutscene."
         },
         {
             "id": "75",
-            "title": "Jiao and Wingul ジャオとウィンガル",
+            "title": "Jiao and Wingul ",
             "missable": true,
-            "location": "Kanbalar カン・バルク",
-            "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
+            "location": "Kanbalar ",
+            "period": "After reclaiming the castle in Kanbalar  and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora . ",
             "info": "Talk to Wingul in the throne room."
         },
         {
             "id": "76",
-            "title": "Monsters in the Cave 洞窟の魔物",
-            "location": "Kanbalar カン・バルク",
-            "period": "After reclaiming the castle in Kanbalar カン・バルク and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora 旅船ジルニトラ. ",
-            "info": "Talk to the man in one of the rooms on the 2nd floor of the inn. He asks you to defeat a fire tiger in Nala Lava Tubes ノール灼洞. You can get there through Xailen Woods ザイラの森. Report back for a reward.",
-            "reward": "blindfold attachment 目隠し"
+            "title": "Monsters in the Cave ",
+            "location": "Kanbalar ",
+            "period": "After reclaiming the castle in Kanbalar  and reuniting with all 6 party members in the castle. Just before talking to Gaius and invading the cruise ship Jilnitora . ",
+            "info": "Talk to the man in one of the rooms on the 2nd floor of the inn. He asks you to defeat a fire tiger in Nala Lava Tubes . You can get there through Xailen Woods . Report back for a reward.",
+            "reward": "blindfold attachment "
         }
     ]
 },
 {
     "chapter": 46,
-    "title": "Chapter 46 ガイアスのもくろみ",
-    "location": "Hamil ハ・ミル",
-    "period": "When you regain control of the party after all the many cutscenes following the fight with Jirando and Celsius. You regain the ability to warp after viewing a short cutscene when you try to enter the eastern area of Hamil ハ・ミル 東部.",
+    "title": "Chapter 46 ",
+    "location": "Hamil ",
+    "period": "When you regain control of the party after all the many cutscenes following the fight with Jirando and Celsius. You regain the ability to warp after viewing a short cutscene when you try to enter the eastern area of Hamil  .",
     "subevents":
     [
         {
             "id": "77",
-            "title": "Soldiers Who Use the Spyrix 黒匣を使う兵士",
+            "title": "Soldiers Who Use the Spyrix ",
             "missable": true,
-            "location": "Hamil ハ・ミル",
-            "info": "Walk towards the back of the orchard in the west part of Hamil ハ・ ミル西部 until a cutscene occurs.",
-            "reward": "Spirit Stone Remnants 精霊の化石の抜け殻"
+            "location": "Hamil ",
+            "info": "Walk towards the back of the orchard in the west part of Hamil   until a cutscene occurs.",
+            "reward": "Spirit Stone Remnants "
         },
         {
             "id": "48a",
             "parent": "48",
-            "title": "The Cause of the Shifting Spirit Climes 霊勢変化の原因 Part 2/2",
-            "location": "Xian Du シャン・ドゥ",
+            "title": "The Cause of the Shifting Spirit Climes  Part 2/2",
+            "location": "Xian Du ",
             "info": "Talk to the same girl in the same place (northwest elevator) as before for a cutscene."
         },
         {
             "id": "18b",
             "parent": "18",
-            "title": "The Secret Movements of the Shadows 暗躍する影たち PART 3/4",
+            "title": "The Secret Movements of the Shadows  PART 3/4",
             "location": "Fenmont",
-            "info": "Talk to the man in red in the center of the patient receptionist room in Talim Medical School タリム医学校　外来受付."
+            "info": "Talk to the man in red in the center of the patient receptionist room in Talim Medical School ."
         }
     ]
 },
 {
     "chapter": 53,
-    "title": "Chapter 53 異世界の街",
-    "location": "Trigleph トリグラフ",
-    "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
+    "title": "Chapter 53 ",
+    "location": "Trigleph ",
+    "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress .",
     "subevents":
     [
         {
             "id": "78",
-            "title": "The Inventor King 発明王",
-            "location": "Trigleph トリグラフ",
-            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
-            "info": "Talk to the man in the hallway of the 2nd floor of the apartment  building ロドマンション 2F　廊下. He asks you to bring him a navi-metal ナビ メタル. You may already have some (it is dropped by human-looking monster  in Nala Lava Tubes ノール灼洞). If not, it is dropped by and stealable from  certain enemies in Helioborg Fortress ヘリオボーグ基地. It can also be found in  search points within Tatalian Abyss  タタール冥穴 which you have access to  after clearing Helioborg Fortress ヘリオボーグ基地. You can reach Tatalian Abyss   タタール冥穴 through Rusalle Highroad ルサル街道. Bring the navi-metal ナビメタ ル to him for a reward.",
-            "reward": "Krona Symbol クローナシンボル"
+            "title": "The Inventor King ",
+            "location": "Trigleph ",
+            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress .",
+            "info": "Talk to the man in the hallway of the 2nd floor of the apartment  building  2F. He asks you to bring him a navi-metal  . You may already have some (it is dropped by human-looking monster  in Nala Lava Tubes). If not, it is dropped by and stealable from  certain enemies in Helioborg Fortress . It can also be found in  search points within Tatalian Abyss   which you have access to  after clearing Helioborg Fortress . You can reach Tatalian Abyss    through Rusalle Highroad . Bring the navi-metal   to him for a reward.",
+            "reward": "Krona Symbol "
         },
         {
             "id": "79",
-            "title": "A Bold New Recipe 見果てぬレシピ",
-            "location": "Trigleph トリグラフ",
-            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
-            "info": "Talk to the old man in the park 市民公園　in front of the apartment building. He asks you to buy cream croquette parfait クリームコロッケパフェ. Buy one from the food shop (level 29+) and give it to him for a reward.",
-            "reward": "11400 gald, pipe attachment パイプ"
+            "title": "A Bold New Recipe ",
+            "location": "Trigleph ",
+            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress .",
+            "info": "Talk to the old man in the park in front of the apartment building. He asks you to buy cream croquette parfait . Buy one from the food shop (level 29+) and give it to him for a reward.",
+            "reward": "11400 gald, pipe attachment "
         },
         {
             "id": "80",
-            "title": "The Spread of the Spyrix 黒匣の普及",
-            "location": "Trigleph トリグラフ",
-            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
-            "info": "Enter room 102 in the apartment building ロドマンション102号室 for a cutscene."
+            "title": "The Spread of the Spyrix ",
+            "location": "Trigleph ",
+            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress .",
+            "info": "Enter room 102 in the apartment building 102 for a cutscene."
         },
         {
             "id": "81",
-            "title": "Rumors of Elympios エレンピオスの噂話 PART 1/2",
-            "location": "Trigleph トリグラフ",
-            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
-            "info": "Approach the group of people in the room to the right when you enter the apartment building ロドマンション 1F for a cutscene."
+            "title": "Rumors of Elympios  PART 1/2",
+            "location": "Trigleph ",
+            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress .",
+            "info": "Approach the group of people in the room to the right when you enter the apartment building  1F for a cutscene."
         },
         {
             "id": "82",
-            "title": "Hunt Down the Shadow Stalkers ガリィ狩り狩り",
-            "location": "Trigleph トリグラフ",
-            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
-            "info": "Talk to the man near the entrance of the port area トリグラフ港. He asks you to defeat Shadow Stalkers in the south section of Torbalan Highroad トルバラン街道 南部. They are in the southern part of the map by a tree. Report back for a reward.",
-            "reward": "11400 gald, mystery mask 怪傑マスク仮面"
+            "title": "Hunt Down the Shadow Stalkers ",
+            "location": "Trigleph ",
+            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress .",
+            "info": "Talk to the man near the entrance of the port area . He asks you to defeat Shadow Stalkers in the south section of Torbalan Highroad  . They are in the southern part of the map by a tree. Report back for a reward.",
+            "reward": "11400 gald, mystery mask "
         },
         {
             "id": "83",
-            "title": "From the Position of Authority 責任ある立場",
-            "location": "Trigleph トリグラフ",
-            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
-            "info": "Talk to the two men on the upper level in the northwest part of the port area トリグラフ港 for a scene."
+            "title": "From the Position of Authority ",
+            "location": "Trigleph ",
+            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress .",
+            "info": "Talk to the two men on the upper level in the northwest part of the port area  for a scene."
         },
         {
             "id": "84",
-            "title": "The Cycle of Elympios エレンピオスの循環",
-            "location": "Trigleph トリグラフ",
-            "period": "Before leaving Trigleph トリグラフ (first visit) on your way to Helioborg Fortress ヘリオボーグ基地.",
-            "info": "After viewing the story cutscene when you try to leave the city (after you learn Helioborg Fortress ヘリオボーグ基地 has been attacked), approach the center of the shopping district 商業区　for a cutscene."
+            "title": "The Cycle of Elympios ",
+            "location": "Trigleph ",
+            "period": "Before leaving Trigleph  (first visit) on your way to Helioborg Fortress .",
+            "info": "After viewing the story cutscene when you try to leave the city (after you learn Helioborg Fortress  has been attacked), approach the center of the shopping district for a cutscene."
         }
     ]
 },
 {
     "chapter": 56,
-    "title": "Chapter 56 それぞれの心",
-    "location": "Trigleph トリグラフ",
-    "period": "After clearing Helioborg Fortress ヘリオボーグ基地",
+    "title": "Chapter 56 ",
+    "location": "Trigleph ",
+    "period": "After clearing Helioborg Fortress ",
     "subevents":
     [
         {
             "id": "85",
-            "title": "The Otherworld Reactor Plan 異界炉計画",
-            "location": "Trigleph トリグラフ",
-            "period": "After clearing Helioborg Fortress ヘリオボーグ基地",
-            "info": "Enter room 303 in the apartment building ロドマンション303号室 for a cutscene."
+            "title": "The Otherworld Reactor Plan ",
+            "location": "Trigleph ",
+            "period": "After clearing Helioborg Fortress ",
+            "info": "Enter room 303 in the apartment building 303 for a cutscene."
         }
     ]
 },
 {
     "chapter": 58,
-    "title": "Chapter 58 己が道為に",
-    "location": "Trigleph トリグラフ",
+    "title": "Chapter 58 ",
+    "location": "Trigleph ",
     "period": "After being able to travel between Reize Maxia and Elympios",
     "subevents":
     [
         {
             "id": "81",
-            "title": "Rumors of Elympios エレンピオスの噂話 PART 2/2",
-            "location": "Trigleph トリグラフ",
+            "title": "Rumors of Elympios  PART 2/2",
+            "location": "Trigleph ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Return to the room off to the right of the entrance on the 1st floor of the apartment building ロドマンション 1F for another cutscene."
+            "info": "Return to the room off to the right of the entrance on the 1st floor of the apartment building  1F for another cutscene."
         },
         {
               "id": "18c",
               "parent": "18",
-              "title": "Those Who Act in Shadow 暗躍する影たち PART 4/4",
-              "location": "Nia Khera ニ・アケリア",
+              "title": "Those Who Act in Shadow  PART 4/4",
+              "location": "Nia Khera ",
               "period": "After being able to travel between Reize Maxia and Elympios",
-              "info": "Talk to the old man inside the meeting place 集会場 (the southernmost building on the map)."
+              "info": "Talk to the old man inside the meeting place  (the southernmost building on the map)."
         },
         {
               "id": "29a",
               "parent": "29",
-              "title": "The Shape of Our World 世界の形 PART 2/2",
-              "location": "Sharilton カラハ・シャール",
+              "title": "The Shape of Our World  PART 2/2",
+              "location": "Sharilton ",
               "period": "After being able to travel between Reize Maxia and Elympios",
-              "info": "Talk to the man looking at the windmill in the central plaza 中央広場."
+              "info": "Talk to the man looking at the windmill in the central plaza ."
         },
         {
               "id": "36c",
               "parent": "36",
-              "title": "Sisterhood 姉と妹と PART 3/3",
-              "location": "Trigleph トリグラフ",
+              "title": "Sisterhood  PART 3/3",
+              "location": "Trigleph ",
               "period": "After being able to travel between Reize Maxia and Elympios",
-              "info": "Enter the 3rd floor of the apartment building ロドマンション 3F for a cutscene."
+              "info": "Enter the 3rd floor of the apartment building  3F for a cutscene."
         },
         {
             "id": "40a",
             "parent": "40",
-            "title": "The Edge of the World 世界の果て PART 2/2",
-            "location": "Lakutam Seahaven ラコルム海停",
+            "title": "The Edge of the World  PART 2/2",
+            "location": "Lakutam Seahaven ",
             "period": "After being able to travel between Reize Maxia and Elympios",
             "info": "Approach the edge near the water on the north side of town on the level below the entrance to the inn for another scene."
         },
         {
             "id": "42b",
             "parent": "42",
-            "title": "Memories of Leronde ル・ロンドの思い出 PART 3/3",
-            "location": "Leronde ル・ロンド",
+            "title": "Memories of Leronde  PART 3/3",
+            "location": "Leronde ",
             "period": "After being able to travel between Reize Maxia and Elympios",
             "info": "Inspect the food to your left when you enter the inn (on thecounter by the food shop) for a cutscene."
         },
         {
             "id": "53a",
             "parent": "53",
-            "title": "Mother and Child 母と子 PART 2/2",
-            "location": "Xian Du シャン・ドゥ",
+            "title": "Mother and Child  PART 2/2",
+            "location": "Xian Du ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Visit Alvin's mother's house for a cutscene. Enter the southeast elevator and the elevator in the next area to get there. Afterwards go find Isura on the first bridge of Labari Hollow リーベリー岩孔 for another cutscene.",
-            "reward": "Gunbelt attachment ガンベルト"
+            "info": "Visit Alvin's mother's house for a cutscene. Enter the southeast elevator and the elevator in the next area to get there. Afterwards go find Isura on the first bridge of Labari Hollow  for another cutscene.",
+            "reward": "Gunbelt attachment "
         },
         {
             "id": "60a",
             "parent": "60",
-            "title": "Jude's Substitute ジュードの代診 PART 2/2",
-            "location": "Leronde ル・ロンド",
+            "title": "Jude's Substitute  PART 2/2",
+            "location": "Leronde ",
             "period": "After being able to travel between Rieze Maxia and Elympios",
-            "info": "Approach the Mathis Clinic マティス治療院 for a cutscene. Then go to the Felgana Mine mining area 4 フェルガナ鉱山 第4鉱区 (the area before the area where you fought the boss) and go to the bottom left part of the map for a cutscene.",
-            "reward": "Spirit Symbol メンタルシンボル"
+            "info": "Approach the Mathis Clinic  for a cutscene. Then go to the Felgana Mine mining area 4  4 (the area before the area where you fought the boss) and go to the bottom left part of the map for a cutscene.",
+            "reward": "Spirit Symbol "
         },
         {
             "id": "71a",
             "parent": "71",
-            "title": "Leia's Failure? レイアの失敗？ PART 2/2",
-            "location": "Fennmont イル・ファン",
+            "title": "Leia's Failure?  PART 2/2",
+            "location": "Fennmont ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Go to Talim Medical School Outpatient Building examination room 5 タリム医学校 外来棟 第5診察室 again for a cutscene."
+            "info": "Go to Talim Medical School Outpatient Building examination room 5   5 again for a cutscene."
         },
         {
             "id": "86",
-            "title": "The Origin of Spyrite 源霊匣誕生",
-            "location": "Helioborg Fortress ヘリオボーグ基地",
+            "title": "The Origin of Spyrite ",
+            "location": "Helioborg Fortress ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Enter the base from Torbalan Highroad トルバラン街道 and proceed into the first hallway and a cutscene should activate."
+            "info": "Enter the base from Torbalan Highroad  and proceed into the first hallway and a cutscene should activate."
         },
         {
             "id": "87",
-            "title": "The Devil Beast Attacks 魔装獣の襲撃",
-            "location": "Helioborg Fortress ヘリオボーグ基地",
+            "title": "The Devil Beast Attacks ",
+            "location": "Helioborg Fortress ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. From the laboratory on the 13th floor 兵装研究棟　１３F　研究室　go up to the roof　兵装研究棟　14F 屋上　(where you fought Volt), and after a cutscene you will fight the Fell Arms beast Melanbron."
+            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. From the laboratory on the 13th floor Fgo up to the roof14F (where you fought Volt), and after a cutscene you will fight the Fell Arms beast Melanbron."
         },
         {
             "id": "88",
-            "title": "The Gathering Miasma あふれ出る瘴気",
-            "location": "Tatalian Abyss タタール冥穴",
+            "title": "The Gathering Miasma ",
+            "location": "Tatalian Abyss ",
             "period": "After being able to travel between Rieze Maxia and Elympios",
-            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. Proceed through the 1st floor of Tatalian Abyss タタール冥穴 for a scene. You have to destroy both seals to proceed in each floor. Just approach the wind seal (the floating crystal)  to destroy it which will activate the earth seal (the glowing ring). For the earth seal you must jump down onto it from a high place to destroy it. Proceed to the deepest part of the cave 最深部 to fight the Fell Arms Beast Dransword."
+            "info": "This sidequest is related to the Devil's Beasts Sidequest, see the respective section below for more details. Proceed through the 1st floor of Tatalian Abyss  for a scene. You have to destroy both seals to proceed in each floor. Just approach the wind seal (the floating crystal)  to destroy it which will activate the earth seal (the glowing ring). For the earth seal you must jump down onto it from a high place to destroy it. Proceed to the deepest part of the cave  to fight the Fell Arms Beast Dransword."
         },
         {
             "id": "89",
-            "title": "Gaius, the King 王、ガイアス",
-            "location": "Kanbalar カン・バルク",
+            "title": "Gaius, the King ",
+            "location": "Kanbalar ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "You must have at least started the sidequest 'The History of Auj Oule' ア・ジュール、その歴史. Go to the gate just beforethe entrance to Gaius's castle in Kanbalar カン・バルク for a cutscene."
+            "info": "You must have at least started the sidequest 'The History of Auj Oule' . Go to the gate just beforethe entrance to Gaius's castle in Kanbalar  for a cutscene."
         },
         {
             "id": "91",
-            "title": "What Lies in Memory 記憶の底にあるもの",
-            "location": "Labari Hollow リーベリー岩孔",
+            "title": "What Lies in Memory ",
+            "location": "Labari Hollow ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "You must have completed the sidequests 'Reawakened Memories' 甦る記憶 and 'Mother and Child' 母と子. Enter Labari Hollow リーベリー岩孔 for a cutscene. Then go to the central section of Mon Highlands モン高原 and enter the Cave of Silence 音無しの洞窟. 3/4 of the way down the passageway there should be a hole in the wall on the right that you can crawl through. Proceed through to the next area, Mon Highlands northern side モン高原　北方 for a cutscene.",
-            "reward": "princesshia flower (a material for leveling shops) プリンセシア"
+            "info": "You must have completed the sidequests 'Reawakened Memories'  and 'Mother and Child' . Enter Labari Hollow  for a cutscene. Then go to the central section of Mon Highlands  and enter the Cave of Silence . 3/4 of the way down the passageway there should be a hole in the wall on the right that you can crawl through. Proceed through to the next area, Mon Highlands northern side  for a cutscene.",
+            "reward": "princesshia flower (a material for leveling shops) "
         },
         {
             "id": "92",
-            "title": "Take Over Fort Gandala ガンダラ要塞攻略戦",
-            "location": "Sharilton カラハ・シャール",
-            "info": "Go to the lord's mansion in Sharilton カラハ・シャール 領主邸 for a cutscene. Then go to Fort Gandala ガンダラ要塞 and proceed to control room #2 in the North section, 1st floor北部下層 1F 第02制御室. Go down the stairs and you will receive a Golem Inhibtor ゴーレム撹乱器. Return the large passageway 中央大通路 and you will fight the golems. Report back to Driselle for a reward.",
-            "reward": "Key item 異能の書「絶術拒絶」 that teaches Rowen the skill 'Anti-Magic' アンチマジック"
+            "title": "Take Over Fort Gandala ",
+            "location": "Sharilton ",
+            "info": "Go to the lord's mansion in Sharilton   for a cutscene. Then go to Fort Gandala  and proceed to control room #2 in the North section, 1st floor 1F 02. Go down the stairs and you will receive a Golem Inhibtor . Return the large passageway  and you will fight the golems. Report back to Driselle for a reward.",
+            "reward": "Key item  that teaches Rowen the skill 'Anti-Magic' "
         },
         {
             "id": "93",
-            "title": "Love-Fevered Visions 愛しき人の幻",
-            "location": "Fezebel Marsh ファイザバード沼野",
+            "title": "Love-Fevered Visions ",
+            "location": "Fezebel Marsh ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Enter Fezebel Marsh ファイザバード沼野 from the Arkland Quag アルカンド湿原 for a cutscene. Then approach a girl in the center of the shopping district of Trigleph トリグラフ 商業区 for another cutscene. Then go to the lord's mansion in Sharilton カラハ・シャール 領主邸 for another cutscene."
+            "info": "Enter Fezebel Marsh  from the Arkland Quag  for a cutscene. Then approach a girl in the center of the shopping district of Trigleph   for another cutscene. Then go to the lord's mansion in Sharilton   for another cutscene."
         },
         {
             "id": "94",
-            "title": "The Aspyrixis 医療ジンテクス",
-            "location": "Leronde ル・ロンド",
+            "title": "The Aspyrixis ",
+            "location": "Leronde ",
             "period": "After being able to travel between Rieze Maxia and Elympios",
-            "info": "After completing the sidequest 'Jude's Substitute' ジュードの代診 visit the Mathis Clinic マティス治療院 in Leronde ル・ロンド for a cutscene. Go to the northern section of Old Vicalle Mine バイカール廃坑 北部 and approach to the kid in the southwest part of the open area on the left side of the map for a cutscene."
+            "info": "After completing the sidequest 'Jude's Substitute'  visit the Mathis Clinic  in Leronde  for a cutscene. Go to the northern section of Old Vicalle Mine   and approach to the kid in the southwest part of the open area on the left side of the map for a cutscene."
         },
         {
             "id": "95",
-            "title": "Homing Instinct 帰巣本能",
-            "location": "Xian Du シャン・ドゥ",
+            "title": "Homing Instinct ",
+            "location": "Xian Du ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "You should have completed the sidequest 'Where Did the Wyvern Go?' ワイバーンはどこに？. If you don't before completing this one, you will no longer be able to complete it. Go to the wyvern cage in Xian Du シャン・ドゥ for a cutscene. The cage is in the area through the northeast elevator."
+            "info": "You should have completed the sidequest 'Where Did the Wyvern Go?' . If you don't before completing this one, you will no longer be able to complete it. Go to the wyvern cage in Xian Du  for a cutscene. The cage is in the area through the northeast elevator."
         },
         {
             "id": "96",
-            "title": "Sustaining Anxiety 不安を抑えて",
-            "location": "Fennmont イル・ファン",
+            "title": "Sustaining Anxiety ",
+            "location": "Fennmont ",
             "period": "After being able to travel between Reize Maxia and Elympios",
             "info": "Stay at the inn for a cutscene. Then stay at the inn once again for another cutscene."
         },
         {
             "id": "97",
-            "title": "Muzet Attacks ミュゼの襲撃",
-            "location": "Nia Khera ニ・アケリア",
+            "title": "Muzet Attacks ",
+            "location": "Nia Khera ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Talk to a girl near the exit that leads to Kijara Seafalls キジル海瀑 for a cutscene."
+            "info": "Talk to a girl near the exit that leads to Kijara Seafalls  for a cutscene."
         },
         {
             "id": "98",
-            "title": "The Lost Transcendental Ring 失われた理外の環",
-            "location": "Xailen Woods Temple ザイラの森の教会",
+            "title": "The Lost Transcendental Ring ",
+            "location": "Xailen Woods Temple ",
             "period": "After being able to travel between Reize Maxia and Elympios",
-            "info": "Collect all 23 Mysterious Orbs 謎の宝珠. Bring them to the altar at the Xailen Woods Temple ザイラの森の教会 and you will fight a boss. Be careful, these enemies are level 68. For more information on the location of all the orbs look at the end of this guide.",
-            "reward": "Key item 絶技の書「一刺必滅」 that teaches Jude the arte '尖牙', a title 「闇を打ち払う者」"
+            "info": "Collect all 23 Mysterious Orbs . Bring them to the altar at the Xailen Woods Temple  and you will fight a boss. Be careful, these enemies are level 68. For more information on the location of all the orbs look at the end of this guide.",
+            "reward": "Key item  that teaches Jude the arte '', a title "
         }
     ]
 }]
