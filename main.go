@@ -58,6 +58,9 @@ func getChapter(chapter int) Chapter {
 func indexHandler(r render.Render) {
 	r.HTML(200, "index", nil)
 }
+func ttHandler(r render.Render) {
+	r.HTML(200, "tt", nil)
+}
 func main() {
 	updateCache()
 	m := martini.Classic()
@@ -68,6 +71,7 @@ func main() {
 	m.Use(render.Renderer(templateOptions))
 
 	m.Get("/", indexHandler)
+	m.Get("/tt", ttHandler)
 
 	m.Get("/chapter", func() string {
 		kk, _ := json.Marshal(eventsByChapter)
